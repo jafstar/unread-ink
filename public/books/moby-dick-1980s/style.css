@@ -65,6 +65,19 @@ p { font-size: 17px; margin-bottom: 18px; max-width: 640px; }
 .chapter-image { margin: 0 0 32px; view-transition-name: chapter-image; }
 .chapter-image img { width: 100%; height: auto; display: block; border: 1px solid var(--line); }
 
+/* Great Illustrated Classics format: each scene's image sticks in place
+   while its own text scrolls past, then releases into the next scene's
+   image once you scroll past this section - plain CSS position:sticky,
+   contained naturally by each .scene block, no JS needed. */
+.scene { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; margin-bottom: 70px; }
+.scene-image { position: sticky; top: 40px; }
+.scene-image img { width: 100%; height: auto; display: block; border: 1px solid var(--line); }
+.scene-text { padding-top: 6px; }
+@media (max-width: 800px) {
+  .scene { grid-template-columns: 1fr; gap: 16px; margin-bottom: 40px; }
+  .scene-image { position: static; }
+}
+
 .toc { list-style: none; }
 .toc li { border-bottom: 1px solid var(--line); }
 .toc a {
@@ -76,6 +89,15 @@ p { font-size: 17px; margin-bottom: 18px; max-width: 640px; }
   color: #999; margin-right: 14px;
 }
 .toc a:hover { color: #555; }
+.toc-pending {
+  display: flex; align-items: center; padding: 22px 0; font-size: 20px;
+  font-style: italic; color: #aaa;
+}
+.toc-soon {
+  margin-left: auto; font-family: Georgia, serif; font-style: normal; font-size: 11px;
+  text-transform: uppercase; letter-spacing: 2px; color: #bbb;
+  border: 1px solid var(--line); border-radius: 100px; padding: 4px 12px;
+}
 
 .page-nav {
   display: flex; justify-content: space-between; align-items: center;

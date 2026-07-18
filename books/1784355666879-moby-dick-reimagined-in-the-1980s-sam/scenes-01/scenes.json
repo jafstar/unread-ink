@@ -1,0 +1,44 @@
+[
+  {
+    "scene": 1,
+    "text": "The bus coughed its last breath at the edge of New Bedford. Cold bit through my worn denim. October, 1985. The air reeked of salt, diesel, and something older – the ghosts of gutted fish, forgotten dreams. I pulled my duffel tighter, the cassette recorder against my hip a familiar weight.",
+    "imageDescription": "A bus stopped at the edge of an industrial coastal town in October 1985, with grey sky and salt-weathered buildings visible in the background.",
+    "hasCharacter": false,
+    "filename": "scene-01.png"
+  },
+  {
+    "scene": 2,
+    "text": "The docks were a graveyard. Rust ate through everything: gantries, mooring lines, the hulls of half-sunk trawlers. Faded letters on an abandoned cannery read: \"Whale Oil Works – Since 1820.\"\n\n*Since.* Not *Until*.\n\nA gull shrieked, slicing the grey sky.",
+    "imageDescription": "Deteriorating industrial docks with rusted gantries, corroded mooring lines, half-sunken trawlers, and an abandoned cannery building with faded lettering reading \"Whale Oil Works – Since 1820\" against a grey sky.",
+    "hasCharacter": false,
+    "filename": "scene-02.png"
+  },
+  {
+    "scene": 3,
+    "text": "I walked the cobbled street, past boarded-up storefronts and the flickering neon of a dive bar. The *Pequod*.",
+    "imageDescription": "A cobbled street lined with boarded-up storefronts and a dive bar with flickering neon sign reading \"The Pequod.\"",
+    "hasCharacter": false,
+    "filename": "scene-03.png"
+  },
+  {
+    "scene": 4,
+    "text": "Down by Pier 17, she sat. A behemoth of steel, grey and scarred. Not a schooner, not a clipper. A factory ship. Rust bloomed on her plates. Her processing ramps, massive and brutal, angled towards the water. Smoke plumed from a stack, thin and dark.",
+    "imageDescription": "A large grey factory ship docked at Pier 17, with rusted steel plates, massive processing ramps angling toward the water, and thin dark smoke rising from a stack.",
+    "hasCharacter": false,
+    "filename": "scene-04.png"
+  },
+  {
+    "scene": 5,
+    "text": "A man bent over a series of pipes near the bow, wrench in hand. His back was a canvas of dark tattoos – jagged lines, geometric patterns that looked tribal, ancient. Oil-stained overalls. Skin the color of polished mahogany.\n\nHe grunted, tightening a valve. Steam hissed.\n\nI stopped a few feet away. \"Looking for the *Pequod*.\"\n\nHe straightened slowly. His eyes, dark and intelligent, met mine. They held an unsettling calm. A harpooner's face, carved by wind and salt, but framed by the grease of an engineer.\n\n\"You found her.\" His voice was deep, a low rumble. \"You the new hand?\"\n\nI nodded. \"Ishmael.\"\n\n\"Queequeg.\" He wiped his hands on a rag, though the oil seemed permanent. He gestured with his chin towards a narrow gangplank. \"Captain's in his cabin. We sail on the tide.\"",
+    "imageDescription": "A man with polished mahogany skin, wearing oil-stained overalls, bent over pipes near a ship's bow with a wrench, his back covered in jagged tribal tattoos, steam hissing from the valve he's working on.",
+    "hasCharacter": true,
+    "filename": "scene-05.jpg"
+  },
+  {
+    "scene": 6,
+    "text": "The *Pequod* shuddered. A low vibration hummed up from her engine room. The air thickened with the smell of old iron.\n\nSomewhere above us, a single light in a darkened porthole flickered. The bridge.\n\nI couldn't see him, but I felt him.\n\nCaptain Ahab.\n\nThe *Pequod* was his weapon. We were just the ammunition.",
+    "imageDescription": "The darkened bridge of a factory ship with a single flickering light in a porthole, the ship's grey steel hull visible in shadow.",
+    "hasCharacter": false,
+    "filename": "scene-06.png"
+  }
+]

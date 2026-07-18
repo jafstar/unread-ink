@@ -62,8 +62,21 @@ fs.writeFileSync(path.join(siteDir, 'index.html'), page(outline.title, `
 </div>
 `))
 
+// A chapter is "ready" once it has the real scene-based illustration
+// pass - until then it's the old lower-quality prose/single-image
+// version and stays unpublished (Contents shows it as Coming Soon,
+// no page gets built for it) rather than shipping something below the
+// bar next to something that's actually good.
+function isReady(chapterNum) {
+  return fs.existsSync(path.join(bookDir, `scenes-${String(chapterNum).padStart(2, '0')}`, 'scenes.json'))
+}
+
 // Contents page.
-const tocItems = outline.chapters.map((c) => `<li><a href="chapter-${String(c.number).padStart(2, '0')}.html"><span class="toc-num">${String(c.number).padStart(2, '0')}</span>${c.title}</a></li>`).join('\n')
+const tocItems = outline.chapters.map((c) => {
+  const num = String(c.number).padStart(2, '0')
+  if (isReady(c.number)) return `<li><a href="chapter-${num}.html"><span class="toc-num">${num}</span>${c.title}</a></li>`
+  return `<li class="toc-pending"><span class="toc-num">${num}</span>${c.title}<span class="toc-soon">Coming Soon</span></li>`
+}).join('\n')
 fs.writeFileSync(path.join(siteDir, 'contents.html'), page(`Contents — ${outline.title}`, `
 <div class="wrap">
   <div class="story-bar"><a href="index.html">&larr; ${outline.title}</a></div>
@@ -74,13 +87,26 @@ fs.writeFileSync(path.join(siteDir, 'contents.html'), page(`Contents — ${outli
 </div>
 `))
 
-// One page per chapter.
-for (const chapter of outline.chapters) {
+// One page per READY chapter only - unready chapters get no HTML at all
+// while they're Coming Soon, not just an unlinked page someone could
+// still stumble onto directly.
+const readyChapters = outline.chapters.filter((c) => isReady(c.number))
+for (const chapter of readyChapters) {
   const num = String(chapter.number).padStart(2, '0')
-  const chapterText = fs.readFileSync(path.join(bookDir, `chapter-${num}.md`), 'utf8').replace(/^#[^\n]*\n\n/, '')
-  const prev = outline.chapters.find((c) => c.number === chapter.number - 1)
-  const next = outline.chapters.find((c) => c.number === chapter.number + 1)
-  const image = imageByChapter[chapter.number]
+  const prev = readyChapters.find((c) => c.number === chapter.number - 1)
+  const next = readyChapters.find((c) => c.number === chapter.number + 1)
+
+  const scenesPath = path.join(bookDir, `scenes-${num}`, 'scenes.json')
+  const scenes = JSON.parse(fs.readFileSync(scenesPath, 'utf8'))
+  fs.mkdirSync(path.join(siteDir, 'images'), { recursive: true })
+  for (const s of scenes) {
+    if (s.filename) fs.copyFileSync(path.join(bookDir, `scenes-${num}`, s.filename), path.join(siteDir, 'images', s.filename))
+  }
+  const mainContent = scenes.map((s) => `
+  <section class="scene">
+    ${s.filename ? `<div class="scene-image"><img src="images/${s.filename}" alt="${s.imageDescription}"></div>` : '<div class="scene-image"></div>'}
+    <div class="scene-text">${paragraphs(s.text)}</div>
+  </section>`).join('\n')
 
   const body = `
 <div class="wrap">
@@ -90,8 +116,7 @@ for (const chapter of outline.chapters) {
   </div>
   <div class="chapter-heading">Chapter ${chapter.number}</div>
   <h1 class="chapter-title">${chapter.title}</h1>
-  ${image ? `<figure class="chapter-image"><img src="images/${image}" alt="${chapter.title}"></figure>` : ''}
-  ${paragraphs(chapterText)}
+  ${mainContent}
   <div class="page-nav">
     ${prev ? `<a href="chapter-${String(prev.number).padStart(2, '0')}.html">&larr; ${prev.title}</a>` : '<span class="spacer"></span>'}
     ${next ? `<a class="next" href="chapter-${String(next.number).padStart(2, '0')}.html">${next.title} &rarr;</a>` : `<a class="next" href="contents.html">Contents &rarr;</a>`}
@@ -102,4 +127,4 @@ for (const chapter of outline.chapters) {
 }
 
 console.log(`Site built: ${siteDir}`)
-console.log(`  ${outline.chapters.length + 2} pages, ${imageManifest.images.length} images`)
+console.log(`  ${readyChapters.length + 2} pages (${readyChapters.length}/${outline.chapters.length} chapters ready), ${imageManifest.images.length} images`)

@@ -20,6 +20,12 @@ const srcSite = path.join(ROOT, 'books', bookFolder, 'site')
 const outline = JSON.parse(fs.readFileSync(path.join(ROOT, 'books', bookFolder, 'outline.json'), 'utf8'))
 const destDir = path.join(ROOT, 'public', 'books', cleanSlug)
 
+// Real bug, live-caught: this used to only ever copy files IN, so a page
+// removed from the source site (e.g. a chapter un-published back to
+// Coming Soon) stayed live in public/ forever - a stale copy overlay, not
+// a real republish. Wipe the destination first so it always matches the
+// source site/ exactly.
+fs.rmSync(destDir, { recursive: true, force: true })
 fs.mkdirSync(destDir, { recursive: true })
 fs.mkdirSync(path.join(destDir, 'images'), { recursive: true })
 for (const file of fs.readdirSync(srcSite)) {
