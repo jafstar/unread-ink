@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>unread.ink</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  .book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 24px; margin: 40px 0; }
+  .book-card { text-decoration: none; color: var(--ink); display: block; }
+  .book-card img { width: 100%; aspect-ratio: 3/4; object-fit: cover; border: 1px solid var(--line); display: block; }
+  .book-card-title { font-style: italic; font-size: 17px; margin-top: 10px; }
+</style>
+</head>
+<body>
+<div class="hero" style="min-height: 40vh;">
+  <div class="hero-text" style="position: relative; background: none; padding: 80px 0 40px;">
+    <h1>unread.ink</h1>
+    <div class="sub">Books written by a council of models — an outline council drafts the shape, a writing council drafts the prose, an illustration pass locks one identity across every scene.</div>
+  </div>
+</div>
+<div class="wrap">
+  <h2>Library</h2>
+  <div class="book-grid">
+  <a class="book-card" href="books/moby-dick-1980s/index.html">
+    <img src="books/moby-dick-1980s/images/0-reference.png" alt="The White Sound">
+    <div class="book-card-title">The White Sound</div>
+  </a>
+  </div>
+  <footer>unread.ink</footer>
+</div>
+</body>
+</html>

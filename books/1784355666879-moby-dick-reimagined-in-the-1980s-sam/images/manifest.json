@@ -1,0 +1,49 @@
+{
+  "style": "moody 1980s maritime illustration style, muted teal and rust color palette, grainy textured linework, dramatic overcast lighting, evocative of gritty 80s documentary photography crossed with classic nautical woodcut illustration",
+  "protagonist": "Ishmael",
+  "images": [
+    {
+      "chapter": 0,
+      "filename": "0-reference.png"
+    },
+    {
+      "chapter": 1,
+      "filename": "01-the-last-harbor.jpg"
+    },
+    {
+      "chapter": 2,
+      "filename": "02-the-tape-in-the-safe.jpg"
+    },
+    {
+      "chapter": 3,
+      "filename": "03-the-satellite-ghost.jpg"
+    },
+    {
+      "chapter": 4,
+      "filename": "04-the-stowaway-s-confession.jpg"
+    },
+    {
+      "chapter": 5,
+      "filename": "05-the-pequod-at-sea.jpg"
+    },
+    {
+      "chapter": 6,
+      "filename": "06-the-first-lowering.jpg"
+    },
+    {
+      "chapter": 7,
+      "filename": "07-the-white-page.jpg"
+    },
+    {
+      "chapter": 9,
+      "filename": "09-the-final-day.jpg"
+    },
+    {
+      "chapter": 10,
+      "filename": "10-the-echo-epilogue-.jpg"
+    }
+  ],
+  "failures": [
+    8
+  ]
+}

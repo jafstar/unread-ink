@@ -1,0 +1,10 @@
+{
+  "name": "unread-ink",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Book/comic/poetry autogeneration pipeline - a council of models writes each book. Outline: Radium + ChatGPT. Prose: Gemini + Claude.",
+  "scripts": {
+    "generate": "node scripts/generate-book.mjs"
+  }
+}
