@@ -26,12 +26,13 @@ const claudeKey = process.env.ANTHROPIC_API_KEY
 const geminiKey = process.env.GEMINI_API_KEY
 const fluxKey = process.env.BFL_API_KEY
 
-const STYLE = 'moody 1980s maritime illustration style, muted teal and rust color palette, grainy textured linework, dramatic overcast lighting, evocative of gritty 80s documentary photography crossed with classic nautical woodcut illustration'
+const DEFAULT_STYLE = 'moody 1980s maritime illustration style, muted teal and rust color palette, grainy textured linework, dramatic overcast lighting, evocative of gritty 80s documentary photography crossed with classic nautical woodcut illustration'
 
 const bookFolder = process.argv[2]
 const chapterNum = process.argv[3] || '01'
+const STYLE = process.argv[4] || DEFAULT_STYLE
 if (!bookFolder) {
-  console.error('Usage: node scripts/illustrate-scenes.mjs <book-folder> [chapter-num]')
+  console.error('Usage: node scripts/illustrate-scenes.mjs <book-folder> [chapter-num] [style]')
   process.exit(1)
 }
 

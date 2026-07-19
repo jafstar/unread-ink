@@ -1,0 +1,45 @@
+# Chapter 3: The Bear That Watched
+
+The next morning, Thunder Creek Basin felt different. Not just because the sun climbed higher, burning off the last wisps of ground fog, but because Nora carried a new weight. The thermal images, the scarred grizzly, the impossible footprints—they were no longer mere anomalies. She couldn’t yet read their meaning, but she knew they formed a pattern, and patterns could be traced. She moved with renewed purpose, rifle slung tight, binoculars at the ready.
+
+The air was crisp, scented with pine and damp earth. A distant raven cawed, its call echoing off the ridges. Nora listened, sorting through the usual forest symphony for anything out of place. Her boots found the same faint trail she’d marked yesterday, the crushed leaves and bent ferns whispering directions.
+
+She’d only gone another mile when she saw it.
+
+A black bear. Not the honey-colored grizzly from yesterday, but a sleek, dark form foraging near a cluster of serviceberry bushes. It was a good-sized male, perhaps three hundred pounds. Nora stopped, raising her binoculars, assessing. Standard protocol: observe, make noise if it doesn’t move, give it space.
+
+The bear lifted its head. Its eyes locked onto hers. It did not growl. It did not snort. It did not drop to all fours and bolt. Instead, it rose slowly onto its hind legs, unfolding to its full height like a mechanism being cranked upright. The movement was deliberate, unhurried—a statement, not a reaction.
+
+Nora’s hand went to her rifle, then stopped. The bear’s front paws hung loose at its sides, claws sheathed. Its head tilted, just slightly, as though measuring her from an angle no animal should consider. One full minute passed. A minute in which the forest itself seemed to hold its breath. The bear’s gaze did not waver. It was not the blank watchfulness of a creature weighing threat or escape. It was the stillness of something that had already decided.
+
+Then the bear turned. Not a lumbering pivot but a clean, almost human shift of weight. It took three steps off the trail, into a denser thicket of alder and huckleberry. At the edge of the green tangle, it stopped. It looked back at her over its shoulder—a gesture so deliberate it felt choreographed—and held her eyes for one more heartbeat. Then it melted into the brush, branches shivering in its wake.
+
+Nora lowered her binoculars. Her heart hammered a slow, uneven beat against her ribs. *It wants me to follow.* The thought arrived unbidden, and she did not dismiss it. She pushed forward, off the path. The branches snatched at her clothes, the undergrowth thick. She followed the subtle bends in the vegetation, the freshly disturbed leaves.
+
+The bear was gone. But a few yards deeper, where the thicket thinned into a small, moss-covered clearing, the earth was disturbed. Not for foraging. This was a recent digging. Too shallow. A faint, sweet-sick odor hung in the air, a smell she knew too well from SAR calls.
+
+A grave.
+
+Nora approached cautiously, her senses screaming. A scrap of denim, mud-stained and torn, poked out from under a mound of loose soil. She dropped to her knees, pulling on a pair of latex gloves. Carefully, she began to move the earth.
+
+The soil was soft, easy to dislodge. Beneath it, the hiker lay. Face down, arms splayed. No animal damage. No torn flesh, no gnawed bones, no signs of a struggle. The body was intact, preserved by the cool, damp earth.
+
+She worked quickly, gently, exposing the back of the hiker’s skull. There, at the base, just where the spine met the cranium, was a small, perfectly round puncture wound. Clean. Precise. Like a surgical drill had been used. It was the only mark on the body. No blood, no bruising around the entry point. The absence of trauma was more terrifying than any mauling.
+
+She recognized the gear, the faded logo on the backpack. A missing hiker. Forest Service had written it off as a probable fall, body unrecoverable in the terrain.
+
+Nora retrieved her GPS unit, logging the coordinates. Then, from her pack, she took a sterile tissue sample kit. She used a small scalpel to take a tiny fragment of skin from around the wound, sealing it in a tube.
+
+She carefully re-covered the body, smoothing the earth back into place, restoring the illusion of undisturbed forest floor. The silence pressed in—no birdsong, no rustling leaves—but beneath it, a new thought had begun to form. *The bear led me here. It knew.* And if the bear knew, then the anomalies she’d been chasing—the thermal images, the scarred grizzly, the impossible footprints—were not random. They were the same pattern, repeating. The question was not *what* killed this hiker, but *who* was guiding the animals to the bodies.
+
+As she stood, brushing the soil from her pants, she felt it. That familiar prickle on her neck. She looked up, toward the ridge that defined the western edge of the clearing.
+
+The black bear stood there. Still as stone. Watching her. It hadn’t left. It had waited.
+
+Nora gripped her rifle, but she did not raise it. Instead, she met the bear’s dark eyes and spoke aloud, her voice low and steady. “What are you showing me?”
+
+The bear did not react. It held her gaze for another long moment, then turned and disappeared into the forest with a rustle of branches.
+
+Nora stood in the clearing, the weight of discovery settling into something sharper—a question with edges she could now feel. She did not have answers yet. But for the first time, she knew what to ask. She turned back toward the trail, marking her route for return. The trees closed around her, but this time they did not feel like a wall. They felt like a path.
+
+As she made her way out of Thunder Creek, the woods whispered behind her. She did not look back. She was closer now. Closer than anyone had ever been.

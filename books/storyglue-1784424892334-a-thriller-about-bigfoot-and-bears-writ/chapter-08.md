@@ -1,0 +1,155 @@
+# Chapter 8: The Forest Bureau's Inquiry
+
+Nora sat across from Deputy Director Marcus Leland in the ranger station's conference room, the fluorescent lights overhead casting harsh shadows across his weathered face. A stack of incident reports lay between them, each one stamped with red ink: PENDING REVIEW.
+
+"You understand the situation," Leland said, his voice flat. "One hiker dead. Two survivors with no memory of the incident. And your report—" He tapped the topmost folder. "—reads like something out of a cryptid blog."
+
+Nora kept her hands folded in her lap, willing herself to stillness. "I reported what I observed."
+
+"A bipedal creature. Controlling bears. Thermal anomalies." Leland's eyebrow arched. "Nora, I've known you for three years. You're one of our best. But this—"
+
+"Is the truth."
+
+"The truth," Leland interrupted, "is that the Forest Service has classified this incident as a mass psychological event. Environmental stressors, dehydration, possible contamination from natural gas seepage in the basin. The survivors' memory loss supports that theory."
+
+Nora's jaw tightened. "They didn't lose their memories from gas seepage."
+
+"According to the medical evaluation, they show signs of acute dissociative amnesia. Trauma-induced. Consistent with exposure to extreme stress." Leland leaned forward. "What they don't show is any physical evidence of an attack by an unknown creature."
+
+"Because it didn't attack them. It—"
+
+"Enough." Leland's voice cut through the room like a blade. "Effective immediately, you're suspended pending the completion of our investigation. Two weeks, minimum. You'll surrender your badge and service weapon. Danny Moore will assume your patrol duties."
+
+The words landed like stones. Nora sat very still, feeling the walls of the room press inward.
+
+"This is a mistake," she said quietly.
+
+"This is protocol." Leland stood, signaling the end of the meeting. "Go home, Nora. Rest. When the investigation concludes, we'll reassess."
+
+---
+
+Danny found her in the parking lot, leaning against her truck, staring at the tree line. He approached slowly, hands shoved in his jacket pockets.
+
+"Heard what happened," he said.
+
+Nora nodded, not trusting herself to speak.
+
+"For what it's worth, I told them you were solid. That if you said you saw something, you saw something."
+
+She turned to look at him. "Did they listen?"
+
+Danny's silence was answer enough.
+
+"They're calling it a mass psychological event," Nora said, the words bitter on her tongue. "Like we all hallucinated the same thing."
+
+"The survivors don't remember anything. And the bodies—" Danny hesitated. "The autopsies came back inconclusive. No animal DNA, no clear cause of death for the woman in the raft. Just hypothermia and shock."
+
+"What about the puncture wound? The resin samples I collected?"
+
+"Filed under 'environmental contamination.'" Danny looked away. "Look, Nora, I believe you. But if you go public with this Handler theory—if you push this—you'll lose more than your job. You'll lose any credibility you have left. And without that, you can't help anyone."
+
+Nora felt the weight of his words settle over her. He was right. She knew he was right. But the truth gnawed at her, refusing to be silenced.
+
+"So what do you suggest?" she asked.
+
+"Comply. At least on the surface. Let the investigation run its course. Keep your head down." Danny met her eyes. "And whatever you do, don't go back into that basin alone."
+
+She nodded slowly, the lie forming even as she agreed. "I'll stay out of it."
+
+Danny studied her for a long moment, then sighed. "I hope you mean that."
+
+He walked away, leaving Nora alone in the parking lot, the suspension notice heavy in her pocket.
+
+---
+
+That night, Nora sat in her darkened apartment, laptop open on the kitchen table. She had promised Danny she'd stay out of it. She hadn't promised to stop looking.
+
+She pulled up the satellite imagery archives, scrolling through thermal data from the Thunder Creek Basin over the past six months. The software was clunky, outdated, but she knew how to coax information from it. She narrowed the parameters, focusing on the area where she'd encountered the Handler, where the spiral of stones had been laid.
+
+At first, nothing stood out. Standard thermal signatures: cooler at night, warmer during the day, with minor fluctuations from weather patterns.
+
+Then she saw it.
+
+A warm spot, small but distinct, appearing in the same location every forty-eight hours. It would bloom, a gentle orange glow on the thermal overlay, persist for approximately six hours, then fade back to ambient temperature. The cycle repeated with mechanical precision.
+
+Nora leaned closer, her pulse quickening. She cross-referenced the dates. The pattern had begun three months ago, coinciding with the first of the unusual bear sightings logged in the old ranger's journal.
+
+She ran the numbers again, checked the calibration, verified the data source. No error. The heat pulse was real, and it was regular. Like something breathing warmth into the ground.
+
+She sat back, the implications unfolding in her mind. This wasn't random. This was controlled. Engineered.
+
+She needed proof. Real, tangible proof that couldn't be dismissed as environmental contamination or psychological stress.
+
+She scrolled through her contacts, stopping on a name she hadn't called in years: Aris Colwin. They'd been in grad school together, both studying environmental systems, before their paths diverged—hers into field conservation, his into geophysics. He was unconventional, curious, and most importantly, willing to bend the rules for a good mystery.
+
+She typed out a message, careful to keep it vague enough to avoid suspicion but compelling enough to hook his interest.
+
+*Aris—Need a favor. Geothermal anomaly in the Cascades. Off the books. The kind that could get us both in trouble. Interested?*
+
+The reply came within minutes.
+
+*That bad? Or that good?*
+
+*That real.*
+
+Another pause. Then: *Details?*
+
+She sent the coordinates and a time—four in the morning, when the forest would be at its most deserted. *Bring the GPR. Tell no one.*
+
+His reply was single word: *In.*
+
+---
+
+She met Aris at a pull-off two miles from the main trailhead, the hour so early that the stars still held the sky. He arrived with his lights off, coasting to a stop beside her truck. His usual grin was absent, replaced by a wariness she hadn't seen in him before.
+
+"Four a.m. rendezvous, burner-level secrecy, and a thermal anomaly that pulses like a heartbeat." He hoisted a canvas bag from his trunk. "You've got my attention. You've also got me wondering if I should have told someone where I was going."
+
+"You can still back out," Nora said, and meant it.
+
+Aris looked at her, read the seriousness in her face, and shook his head. "I've been chasing ghosts in data for ten years. You're offering me one I can touch. I'm in."
+
+They moved quickly, sticking to the shadows of the tree line, avoiding the main trails. Nora's suspension meant her truck was known, her face watched. She'd worn a cap pulled low, a jacket she never wore on duty. Every rustle of leaves made her glance over her shoulder.
+
+The basin greeted them with the same stillness she remembered, the same charged quiet. The spiral of stones was still there, undisturbed. Aris set up the ground-penetrating radar without a word, his movements efficient, professional.
+
+The data began to flow. He stared at the screen, then adjusted a setting, then stared again.
+
+"Tell me you're seeing what I think you're seeing," Nora said.
+
+Aris didn't look up. "The subsurface temperature here is fifteen degrees above ambient. That's not anomalous. That's impossible without a heat source." He traced a finger along the display. "And there's a pattern. A low-frequency oscillation. Like—"
+
+"Like breathing," Nora finished.
+
+He nodded slowly. "I've never seen anything like this. It's not geothermal. There's no volcanic activity in this region. No fault lines that would explain a consistent thermal pulse." He looked up at her, his face pale in the glow of the monitor. "This is something else. Something active."
+
+Nora felt the ground shift beneath her, not literally but perceptually—the entire framework of what she understood about the world tilting on its axis.
+
+"Can you get a reading on depth?" she asked.
+
+Aris worked the controls. "The source is roughly thirty meters down. But there's something else." He pointed to a secondary signal, fainter but distinct. "There's a branching structure. Like roots. Or veins. Radiating outward from the central anomaly."
+
+Nora stared at the screen, at the ghostly image of something pulsing beneath the earth. The Handler's domain. Its network.
+
+"If I bring this data to the Forest Service," she said slowly, "they'll say I fabricated it. That I tampered with the equipment to support my discredited theory."
+
+"Probably," Aris agreed. "But it's real. I can vouch for that."
+
+"And if they come after your credentials? Your funding?"
+
+He was quiet for a long moment. Then he shut down the radar and packed it away with careful precision. "Then we make sure we have more than just this. We need something they can't explain away."
+
+They dismantled the equipment in silence, the weight of what they'd found settling between them. As they hiked back, the first gray light of dawn began to seep through the trees, the forest stirring awake around them.
+
+At the pull-off, Aris loaded his gear into his trunk and turned to face her. "What's your next move?"
+
+Nora looked back toward the basin, invisible now beyond the treeline. "I go deeper. Find the source. Find out what's down there."
+
+"Alone?"
+
+"I don't have a choice. If I bring anyone else, I'm putting them at risk. And if I tell anyone officially, I'm giving them time to bury the evidence."
+
+Aris held her gaze. "Be careful, Nora. Whatever that thing is—you're too close for it to just let you go."
+
+She nodded, the words echoing something she already knew in her bones. "I know."
+
+She drove home as the sun rose, the radar data saved on a drive in her pocket, a secret she couldn't yet share. The suspension meant she had time. The anomaly meant she had a target. And her promise to Danny meant nothing compared to what she'd seen—what she knew—was waiting for her in the basin.

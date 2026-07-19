@@ -1,0 +1,91 @@
+# Chapter 7: The High Meadow Trial
+
+Nora clung to the cold granite, watching the colossal silhouette at the cliff's base. The pulsing lines on its arms faded, then brightened, a slow, deliberate rhythm against the fog. It waited. For her.
+
+After a long minute, the Handler moved. Not a walk, but a glide. Fluid, silent. It merged with the swirling mist, its presence vanishing as if it had never been.
+
+Nora waited for her muscles to stop screaming, for her heart to slow its frantic beat. Then, carefully, she began her descent. Every foothold was slick, every handhold tenuous. She moved with the slow, deliberate grace of a mountain goat, her rifle a dead weight across her back.
+
+By the time her boots touched the creek bed, the fog was a palpable wall, muffling sound, distorting vision. The air was heavy, damp, smelling of wet stone and pine needles. She pulled her headlamp beam back to a low glow, relying more on her ears, her nose, her skin. The faint hum was back, a tremor in the earth, drawing her forward.
+
+She moved through the basin like a ghost, following the subtle disturbances in the undergrowth. Broken twigs. Disturbed moss. The faint impression of that impossible footprint, receding into the fog. The creature was no longer hiding. It was leading.
+
+The terrain shifted. The creek bed narrowed, then opened, the fog-shrouded forest giving way to a wide, shallow meadow. Here, the mist hung so thick it tasted of cloud. Nora crouched at the tree line, peering through the gauze of fog.
+
+Shapes moved.
+
+Not one. Not two. A whole congregation of bears. Black bears, grizzlies, moving with an unnatural discipline. They were gathered in the center of the meadow, milling slowly, heads down, but not foraging. They were waiting.
+
+And among them, a central figure. The Handler. Its bipedal form cut through the mist, taller than the tallest bear, its presence commanding. Nora watched, hidden by a cluster of ancient firs, her breath held tight in her chest.
+
+The Handler raised a hand. Slowly. Not a command, more a suggestion. Its fingers, long and thick, curled in a subtle motion. A large black bear, grizzled around the muzzle, shifted. It took two steps. Another subtle hand gesture. The bear turned, lumbering toward the edge of the meadow, where the mist began to thin. Two more bears followed, forming a loose patrol. Like sheepdogs. The thought hit Nora with the force of a physical blow. It wasn't driving them. It was directing them.
+
+A younger black bear, restless, began to drift away from the central group. It pawed at the damp earth, head swiveling, nose twitching. The Handler turned its head. No sound. No overt movement. But the bear froze, then lowered its head, like a scolded child.
+
+Then, the Handler moved. It strode toward the young bear, its gait a silent, predatory glide. It stopped a few yards from the bear. It waited.
+
+The young bear, emboldened, let out a low growl. Its fur bristled. It dropped to all fours, then feigned a charge, a quick lunge that would send any human scrambling.
+
+The Handler didn't flinch. As the bear lunged, the Handler sidestepped with impossible speed, a blur of motion that defied its mass. It moved like water, flowing around the charging animal. Its hand came up. Not a strike, not a mauling blow. A sharp, open-handed cuff to the bear's muzzle. A correction.
+
+The bear stumbled, yelped once, then dropped to its belly, submitting. It whined, a low, miserable sound. The Handler stood over it, motionless, for a long moment. Then it extended its hand again, a different gesture this time, a gentle, almost reassuring movement. The bear rose, shook itself, and then, slowly, deliberately, followed the Handler back to the larger group. The Handler gestured again, subtle, and the young bear melted into the tree line with the others, becoming part of the patrol.
+
+Nora lowered her binoculars. Her mind churned. *Shepherd. Warden.* The words came unbidden, but she shoved them down. She didn't *know* that. She knew what she'd seen—control, discipline, a hierarchy enforced through violence and grace. But the meaning behind it was a trap. Assign it too quickly, and she'd see what she expected, not what was true.
+
+She forced herself to watch longer. To note what she wasn't seeing. No territorial markings. No boundary lines scratched into stone. The bears didn't guard a perimeter; they followed the Handler's gestures like a current follows the moon. This wasn't about land. It was about *them.* The bears. The Handler tended them the way a keeper tends a flock, not a fortress.
+
+But why? And why here?
+
+The hum deepened, vibrating in her chest, and she felt it pull—not toward the bears, but past them, toward the far edge of the meadow. The hikers. She knew it with a certainty that sickened her. They were still alive, and the Handler had placed them deliberately, like bait in a snare.
+
+She had a choice. Circle wide, avoid the meadow entirely, and retreat to call for backup—the safe play, the smart play. Or cut through the heart of the Handler's domain, risk its attention, and reach the hikers before whatever the hum was doing to them became permanent.
+
+Nora checked her rifle. The safety was on. She left it that way.
+
+She moved low through the huckleberry bushes at the meadow's edge, staying in the deepest fog, counting heartbeats between each careful step. The hum vibrated through the damp earth, through her boots, into her spine. It felt like being inside a bell that had just been struck.
+
+The meadow opened into a smaller clearing, ringed by stones arranged in a spiral—not a natural formation. Nora recognized the pattern from field guides: a petroform, ancient, the kind left by peoples who understood this land long before trails and campsites. The stones were moss-covered, half-sunken, but the spiral was unmistakable. And at its center, two figures sat upright, legs crossed, spines unnaturally straight.
+
+The remaining thru-hikers. A man and a woman. Their eyes were open, pupils blown wide, fixed on nothing. Drool glistened on their chins. They didn't move. They didn't react. Catatonic. Their faces were empty, devoid of all expression, like broken dolls.
+
+Nora's stomach clenched. She rushed forward, stepping over the spiral's outermost stones, and checked their pulses. Both were faint, thready, but present. She tried to rouse them, calling their names, shaking their shoulders gently. No response. Just that dead, vacant stare. They were alive, but something fundamental had been taken from them.
+
+She had to get them out. Now.
+
+But as she moved to lift the woman, her foot caught the edge of a stone. It shifted, scraping against its neighbor. The hum in the earth stopped.
+
+Silence. Absolute.
+
+Nora froze. The fog pressed in, thick and blind. She could feel the absence of the Handler's presence like a held breath. It knew. It had felt her cross the spiral.
+
+She wasn't hidden anymore. She was a trespasser.
+
+The realization crystallized: she had crossed a boundary she hadn't seen, violated a rule she hadn't understood. The spiral wasn't just a marker. It was a threshold. And she'd stepped over it without permission.
+
+No time. She grabbed the woman under the arms, dragged her to the edge of the clearing where her pack raft was stashed. The man was heavier; she hauled him in a fireman's carry, her legs burning, her breath ragged. The silence held. The Handler was not stopping her.
+
+That was worse.
+
+She inflated the raft in frantic bursts, the hiss of air deafening in the stillness. She strapped the hikers in, their bodies limp, unresisting. Their eyes remained wide, seeing nothing.
+
+The creek was a torrent, fed by the constant drizzle and melting snow. The raft plunged into the icy water, instantly picking up speed. Nora gripped the paddles, bracing against the frigid spray, navigating rocks and rapids with a desperate intensity. The glacial water numbed her hands, but she ignored the pain.
+
+The world blurred into a chaos of white water and dark rock. She fought the current, spinning, careening, trying to keep the raft upright, to protect her inert passengers. The hum of the Handler was gone, replaced by the roar of the creek, a violent, all-consuming sound.
+
+Hours later, as the creek broadened and slowed into a calmer stretch, Nora felt it. A change in the raft. A subtle shift in weight.
+
+She glanced back. The hiker closest to her, a young woman with vibrant red hair, was slumped further. Her head had fallen to the side. Her eyes were still wide, but the light had gone out of them. Her skin was ashen, tinged blue.
+
+Nora reached out, her fingers pressing against the woman's neck. Nothing. No pulse. The chill of the water had been too much. The shock. She had died silently, without a sound, without a struggle. Like the other bodies, she was intact, untouched by violence. Only broken on the inside.
+
+Nora leaned her head against the cold, wet raft, the roar of the creek suddenly quiet in her ears. One down. One survivor beside her. And herself.
+
+She had crossed the spiral. She had taken what the Handler had placed. She was a thief now, a trespasser who had violated the boundary and stolen one of its charges. The woman was dead, but the man was alive—and Nora had brought him out of the Handler's territory.
+
+The Handler had let her go. That wasn't mercy. It was a lesson.
+
+Nora looked at the living hiker, at his vacant eyes and slack face. What had the Handler taken from him? What would he be, if he ever woke? A messenger? A warning? Or just another empty shell, walking proof of what happened to those who broke the rules?
+
+She didn't know the Handler's full purpose. She had only glimpsed its methods. But she understood one thing with absolute clarity: she had been allowed to leave so she could carry this story out. Not as a hunter. As a witness.
+
+And the true hunt was only beginning.

@@ -78,6 +78,11 @@ p { font-size: 17px; margin-bottom: 18px; max-width: 640px; }
   .scene-image { position: static; }
 }
 
+/* Text-only chapter (--text-ok, no scene-illustration pass yet) - plain
+   single-column reading, same paragraph rhythm as .scene-text. */
+.chapter-text { max-width: 620px; margin: 0 auto 70px; }
+.chapter-text p { margin-bottom: 1.2em; }
+
 .toc { list-style: none; }
 .toc li { border-bottom: 1px solid var(--line); }
 .toc a {
