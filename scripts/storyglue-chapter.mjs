@@ -9,6 +9,7 @@ import { fileURLToPath } from 'url'
 import { relayWriteChapterChecked } from '../lib/pipeline/storyglue-write.js'
 import { critiqueChapter } from '../lib/pipeline/editorial.js'
 import { leadEditChapter } from '../lib/pipeline/leadEdit.js'
+import { checkContinuity } from '../lib/pipeline/continuityCheck.js'
 
 const __dir = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dir, '..')
@@ -69,7 +70,18 @@ fs.writeFileSync(path.join(bookDir, `editorial-notes-${String(chapterNum).padSta
 notes.forEach((n) => console.log(`  ${n.name} (${n.title}): ${n.note.slice(0, 100)}...`))
 
 console.log('\n=== Lead Editor rewrite ===')
-const final = await leadEditChapter({ draft, notes, editorKey: winnerKey, keys })
+const leadEdited = await leadEditChapter({ draft, notes, editorKey: winnerKey, keys })
+
+// Real bug found live (chapters 9/10): the Lead Editor's rewrite is the
+// actual text that ships, but until now it was never re-checked - the
+// continuity checker only ran during the writer relay, BEFORE Xlectic and
+// the Lead Editor touched anything. Chapter 10 shipped with ~60 lines
+// re-narrating chapter 9's entire cave-recap almost verbatim, because
+// nothing verified the Lead Editor's own output. One more pass, same
+// checker, on the actual final text.
+console.log('\n=== Final continuity check (post-Lead-Editor) ===')
+const final = await checkContinuity({ draft: leadEdited, winningPlot, priorChapters, chapterTitle: chapterMeta.title, chapterSummary: chapterMeta.summary, apiKey: keys.claude })
+
 fs.writeFileSync(path.join(bookDir, `chapter-${String(chapterNum).padStart(2, '0')}.md`), `# Chapter ${chapterNum}: ${chapterMeta.title}\n\n${final}\n`)
 
 console.log(`\nDone. Chapter ${chapterNum} -> ${path.join(bookDir, `chapter-${String(chapterNum).padStart(2, '0')}.md`)}`)

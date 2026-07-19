@@ -1,156 +1,87 @@
---- Chapter 9 ---
-Nora pressed her back against the cool stone, the weight of thirty meters of rock above her, and stared up at the silhouette blocking the only way out.
+<budget:token_budget>200000</budget:token_budget>
 
-The grizzly filled the shaft entrance completely, massive shoulders hunched against the dim circle of daylight. It wasn't moving. Wasn't growling. It simply *stood*, immovable as the mountain itself.
+This draft has **critical continuity and outline drift failures**:
 
-A sentinel.
+1. **Scene duplication/backward narrative**: The draft opens with Nora *already escaped*, the grizzly "entombed beneath tons of granite, along with the Handler" - but Chapter 9 ended with her *just beginning to climb* toward the bear blocking the shaft, *before* any confrontation or landslide. This chapter is supposed to show *how* she escapes and triggers the landslide, not skip past it.
 
-Her headlamp beam caught the bear's eyes—no, not eyes. Something else. A film across them, catching the light like oil on water, the same iridescent sheen she'd seen in the Handler's underground prints. *Impossible prints*, she'd called them when she first saw them: too deep for any bear her weight could match, the toes splayed wider than any grizzly's, and a gait that never once let the hind paw land in the front paw's track. An anatomy that didn't move like any bear she knew.
+2. **Outline drift**: The assigned beat requires specific events that are completely missing: (a) Nora using bear behavior knowledge + scent lure to distract the grizzly in the cave, (b) escaping to the boulder field *above*, (c) the Handler waiting there, (d) seeing its face clearly for the first time (primate-like, intelligent eyes), (e) the Handler raising a hand to summon bears, (f) Nora firing a flare gun into a granite fissure to trigger the rockslide, (g) scrambling to safety as the basin collapses. The draft skips all of this action and jumps to the aftermath.
 
-She'd descended into this chamber three hours ago, squeezing through the narrow fissure between the boulders, past the huckleberry and fern that hid the entrance. The faint current of air rising from below had carried that familiar musky scent, undercut with something mineral and ancient, like the breath of the mountain itself.
+3. **Invented contradiction**: The draft has Danny arriving on foot to find her immediately after. The outline beat specifies she "radios for extraction, her voice shaking" - extraction takes time, she would be alone in the immediate aftermath.
 
-The descent had been smooth. The vertical shaft opened into a chamber so vast her headlamp couldn't touch the far walls, the beam dissolving into darkness. The ceiling arched overhead, high enough to hold a two-story house. The air pressed against her eardrums with a subtle pressure.
+---
 
-She'd found the Handler's tracks immediately—those impossible prints leading deeper into the chamber, undisturbed in the fine dust.
+**CORRECTED CHAPTER:**
 
-Then the bones.
+Nora clipped onto the rope, checked her harness, and began to climb.
 
-Hundreds of them, arranged in neat rows along the chamber wall. Bear skulls lined one section, their eye sockets dark and hollow. Smaller bones—ribs, vertebrae, phalanges—sorted by size and type, like a museum collection curated by a mind that understood taxonomy.
+The grizzly shifted above, blocking more light. The shaft narrowed around her, the rope rough against her palms as she hauled herself upward, boots scraping for purchase on the slick stone. Ten feet. Fifteen. The bear's massive form loomed closer, its breath a hot gust that carried the scent of carrion and musk.
 
-Beyond the bones, the tools. Claws bound to wooden handles with precise sinew lashing, surgical in its tightness. Scrapers made from sharpened shoulder blades. Needles carved from thin leg bones, still threaded with pine bark fiber. Woven baskets and pouches, the weave so tight they could hold water.
+She stopped, her arms burning, and unzipped her jacket one-handed. Her fingers found the small scent lure canister clipped to her belt—a concentrated blend of fish oil and anise, designed to attract bears during non-lethal research. She'd carried it out of habit, never imagining she'd use it like this.
 
-She'd lifted one of the claw tools, turning it in her light. The craftsmanship was extraordinary. Not crude. Not primitive. This was work born of a mind that understood materials, leverage, function.
+She soaked the jacket's collar, then hurled it past the bear, aiming for the daylight beyond the shaft entrance. The fabric sailed through the narrow gap, landing somewhere in the huckleberry thicket outside.
 
-Then the petroglyphs.
+The grizzly's head swiveled. Its nostrils flared. For one terrible second it didn't move—then instinct overrode the Handler's command. The bear turned, lumbering away from the shaft, following the lure.
 
-They covered the far wall, carved into the stone. The images were layered, generations of marks overlapping, but the newest ones were clear—edges still sharp.
+Nora didn't wait. She climbed, hand over hand, her boots scrabbling against stone, her breath ragged. The circle of daylight grew larger, brighter. She hauled herself over the lip of the shaft and rolled onto the granite, gasping.
 
-A tall figure, bipedal, surrounded by bears. Lines radiated from the figure to each bear, connecting them like a web. Like a nervous system. Beneath the central figure, smaller images showed a progression: a bear standing upright, a bear with elongated limbs, a bear with the posture of something that had forgotten how to walk on four legs.
+The grizzly was twenty yards away, tearing through the underbrush where her jacket had landed. She scrambled to her feet and ran.
 
-Nora had traced the lines with her fingertip, and the implications had crashed over her like a wave. The Handler wasn't just controlling the bears. It was *teaching* them. Shaping them. Guiding them toward something—but toward what? A transformation? An elevation? Or a corruption of everything a bear was meant to be?
+The boulder field opened before her, a chaotic scatter of granite slabs and scree, remnants of an ancient rockfall. She picked her way across, boots slipping on loose stone, her lungs burning in the thin mountain air.
 
-She'd stood there, her fingers resting on the carved stone, and let herself dwell in that strange tension. The bears in these carvings were becoming something else. They were losing their wildness, their autonomy, the fundamental essence of being bears. But they were also gaining something—intelligence, purpose, a connection to something larger than themselves. Was the Handler elevating them? Reaching toward something new? Or was this an undoing, a slow unmaking of the natural order?
+Then she saw it.
 
-The mountain had been here for millions of years. It had seen continents shift, ice sheets advance and retreat, species rise and fall. And now, in this chamber carved by patient water and something more deliberate, the mountain was being used as an instrument of transformation.
+The Handler stood at the far edge of the boulder field, perfectly still against the treeline. Waiting.
 
-She'd photographed the most recent carving—a date marker, concentric circles with slash marks. She'd scraped a sample of carbon residue into a vial. Later analysis would confirm what she already suspected: less than twenty years old. The Handler was young. Still learning.
+Nora froze. For the first time, she saw its face clearly.
 
-That was when the hum began.
+Primate-like, but wrong. The brow ridge was too pronounced, the jaw too heavy. Its eyes—large, dark, depthless—held an intelligence that was neither animal nor human. It was something else. Something that had learned to think, to plan, to *understand* in ways the mountain had never seen before.
 
-It started as a tremor in the stone beneath her boots, then swelled, filling the chamber with a resonance that bypassed her ears and settled directly into her chest. The sound was enormous, layered, containing frequencies she couldn't consciously hear but felt in her teeth, her bones, the base of her skull.
+Those eyes locked onto hers. She felt the weight of its attention like a physical force.
 
-The chamber was a resonator. The smooth walls, the perfect acoustics—this was engineered. The Handler was using the cave to amplify its voice, broadcasting across miles of mountain, coordinating its network of bears with a precision that no natural creature could achieve.
+The Handler raised one long-fingered hand.
 
-She'd pressed her hands over her ears, but it did nothing. The hum wasn't sound in the conventional sense. It was pressure, vibration, command coded into frequency.
+Around the perimeter of the boulder field, shapes emerged from the forest. Bears. A dozen of them, maybe more. Black bears, grizzlies, moving with that same unnatural coordination she'd seen in the meadow. They didn't charge. They simply advanced, closing the circle with methodical precision.
 
-And she'd known, with absolute certainty, that she had to get out.
+Nora's hand went to her flare gun. Her mind raced. The boulder field was unstable—she'd noted it on her way in, the way the scree shifted underfoot, the deep fissures running through the granite face behind the Handler. This slope had been waiting to fall for decades. It just needed a trigger.
 
-Now she stood at the base of the shaft, staring up at the grizzly, and understood that the hum had been more than a broadcast. It had been a summons. The Handler had called, and the bear had answered.
-
-Nora forced her breathing to slow. Her heartbeat settled, reluctantly, from a gallop into something steadier. Think. She had smoke grenades, a flare gun, enough deterrents to maybe startle the animal long enough to climb past. But in this confined space, with nowhere for the smoke to go, with the bear already agitated and following the Handler's directive—
-
-The grizzly shifted, its massive head tilting slightly, and a low sound rumbled from its chest. Not a growl. Something else. Something that resonated through the stone, through her bones, mixing with the fading echo of the hum.
-
-It was waiting. Not attacking. Waiting.
-
-For the Handler. For instruction.
-
-Nora's hand moved to her pack. Inside, wrapped in a plastic bag to preserve its scent, was a piece of jerky she'd been saving. Strong-smelling, pungent. She pulled out her jacket, unwrapped the jerky, and rubbed it hard into the fabric, working the oils and scent deep into the fibers.
-
-She looked around the chamber one last time, her headlamp sweeping across the bones, the tools, the petroglyphs. This was the Handler's sanctuary. Its cathedral. And she had violated it.
-
-The grizzly lowered its head, blocking more of the light. The chamber grew darker.
-
-Nora clipped onto the rope, checked her harness, and with her free hand, balled up the jacket tight. She began to climb, hand over hand, boots finding purchase on the rock face.
-
-The bear's head swung toward her immediately, tracking her movement. She could hear its breathing, deep and steady, smell the musk of its fur.
-
-When she was ten feet below the entrance, close enough to see the individual hairs on the bear's muzzle, she hurled the jacket hard to the side. It sailed past the bear's head and landed in the undergrowth beyond the shaft opening, fabric spreading across the ferns.
-
-The bear's head snapped toward the movement. Its nose twitched, catching the concentrated scent. For one heartbeat, it remained still. Then instinct overcame training. It turned, lumber ing after the jacket, massive body pivoting away from the shaft.
-
-Nora didn't hesitate. She hauled herself up the last few feet, muscles screaming, and rolled over the lip of the shaft onto damp earth, gasping. Her arms burned. Her knees were scraped raw. But she was out.
-
-Cold air. Fresh air.
-
-She pushed herself to her feet, rifle gripped tight, and looked out into the boulder field.
-
-The Handler was waiting.
-
-It stood on a massive granite outcrop fifty yards away, silhouetted against the swirling fog, taller than any man—at least seven feet, maybe eight. Its form was unmistakably bipedal, shoulders broad and dense with muscle, arms hanging long past where human arms would end. Covered in dark, matted hair that seemed to absorb the dim light.
-
-It turned its head, and Nora's breath stopped in her chest.
-
-For the first time, she saw its face clearly. Not the blurred thermal signatures, not the vague descriptions from the old journal. This was real, and it was looking directly at her.
-
-The face was primate-like but wrong in subtle, profound ways. A broad, heavy brow jutted forward, shadowing deep-set eyes that were too large, too dark—not black but a deep amber-brown that caught what little light filtered through the fog and held it. No snout, but a flattened nose with wide nostrils. A mouth that was too wide, lipless, expressing nothing. The skull was elongated, the cranium rising higher than any great ape she'd studied, suggesting a brain cavity that was disturbingly large.
-
-But it was the eyes that froze her. They held an intelligence that was neither animal nor human. Ancient. Patient. Aware. It looked at her, and she knew—with absolute certainty—that it understood exactly what she was, what she'd done, what she'd seen in its sanctuary below.
-
-The Handler raised one long arm slowly, deliberately. Not a threat. A signal.
-
-Around it, the boulder field stirred. Shapes moved in the mist—bears. Black bears, grizzlies, emerging from behind rocks, from shallow depressions in the scree. Not just a few. Dozens. Their eyes reflected the ambient light, pinpricks of gold and green in the fog.
-
-They began to close in, a slow, deliberate advance. Not a charge. A herding. The same patient, coordinated movement she'd watched in the meadow. The Handler directing its instruments.
-
-Nora's hand went to her rifle, then stopped. Not against this many. Not against this intelligence.
-
-She looked around frantically. Boulder field. Scree. A sheer granite wall rising above the Handler's position, crisscrossed with deep fissures—the same unstable formation she'd noted on her approach. Frost-wedged. Fractured. Ready to fail.
-
-Her hand dropped to the flare gun on her belt.
-
-The bears were closer now. She could hear the soft pad of their paws on damp rock, the low rumbling in their chests. The Handler remained motionless on its outcrop, those amber eyes never leaving her face.
-
-Nora raised the flare gun, aimed high—not at the Handler, not at the bears, but at the widest fissure in the granite wall directly above the creature's position.
+She raised the flare gun and aimed, not at the Handler, but at a narrow vertical crack in the granite wall above and behind it.
 
 She fired.
 
-The flare exploded from the barrel with a deafening crack, a blinding streak of magnesium-white against the gray. It slammed into the deepest point of the fissure and detonated in a shower of sparks.
+The flare streaked red across the gray stone and buried itself in the fissure. For a heartbeat, nothing happened.
 
-For one heartbeat, nothing.
+Then the mountain moved.
 
-Then the mountain groaned.
+A deep groan echoed through the rock, a sound older than language. The fissure widened, spiderwebbing across the granite face. The Handler turned, too late, as the wall began to peel away in massive sheets.
 
-A sound from deep within the rock itself, a bass rumble that vibrated through the soles of Nora's boots, up her legs, into her spine. The fissure widened. Cracks spiderwebbed outward across the granite face, spreading like lightning frozen in stone.
+The rockslide came like an avalanche, tons of granite and scree thundering down in a roaring cascade. The Handler raised both arms—a futile gesture against the weight of the mountain—and then it was gone, swallowed by the torrent of stone.
 
-The Handler's head snapped up. Its eyes widened—the first emotion she'd seen cross that alien face. Not fear. Recognition. It knew what was coming.
+The bears scattered, bolting into the forest in all directions as boulders the size of cars crashed down around them. The ground shook beneath Nora's feet. She turned and ran, sprinting across the unstable field as the basin collapsed behind her.
 
-The bears broke formation, scattering, their coordinated advance dissolving into panicked flight. But there was nowhere to go.
+She dove behind a massive boulder, pressing herself flat as rocks hissed past, the air thick with dust and pulverized stone. The roar was deafening, absolute, drowning out thought.
 
-The granite wall gave way.
+Then, slowly, the mountain settled. The roar faded to a rumble, then to silence.
 
-Tons of rock—ancient, massive, unforgiving—sheared free and came down in a roaring avalanche. The sound was immense, obliterating thought, a physical force that slammed into Nora's chest. Boulders the size of cars tumbled and bounced, pulverizing everything beneath them. Scree and dust exploded upward in a choking cloud that turned the world white.
+Nora lay still, her ears ringing, her body trembling. Dust hung in the air like fog, turning the sunlight hazy and diffuse. She forced herself to stand, to look back.
 
-Nora ran. Scrambled up the nearest stable slope, boots slipping on loose stone, fingers clawing for purchase. The wave of destruction roared past below her, the air itself displaced by the collapsing mountain. She threw herself behind a massive, stable boulder and pressed her face into cold, damp moss, covering her head as the world came apart.
+Where the Handler had stood, there was only a slope of fresh rubble—a raw, gray scar across the mountain's face. Tons of granite had buried the boulder field, reshaping the basin into something new.
 
-The roar went on and on, a sustained thunder that seemed to have no end. Rock struck rock with sounds like cannon fire. Dust filled her lungs. The ground beneath her shook with seismic violence.
+The Handler was gone.
 
-Then, slowly, the thunder faded. The grinding, fracturing sounds subsided. The dust began to settle, drifting down through the fog like gray snow.
+The bears were gone.
 
-Nora pushed herself up, coughing, spitting grit. Her ears rang with a high, piercing whine. Her body ached. She looked back toward where the Handler had stood.
+Nora fumbled for her radio, her hands shaking so badly she nearly dropped it. She keyed the mic, her voice a hoarse rasp. "Danny. This is Nora. I need extraction. Thunder Creek Basin, upper drainage. GPS coordinates..." She had to check her unit twice before she could read the numbers correctly.
 
-The granite outcrop was gone. Buried under a massive pile of shattered stone—a new landscape of jagged boulders and scree that spread across what had been the lower boulder field. The landslide had carved a fresh scar into the mountain, raw and brutal.
+Danny's voice crackled back, distant and tinny. "Copy that. Are you hurt?"
 
-No sign of the Handler. No sign of the bears that had been closest.
+"No. I'm—" She looked at the rubble field, at the place where something ancient and impossible had just been erased from the world. "I'm okay. Just... get here. Please."
 
-Silence. Profound, absolute silence, broken only by the occasional crack of settling stone, the distant drip of water disturbed by the collapse.
+"Hang tight. We're inbound."
 
-The hum was gone.
+She sank down onto a boulder, the radio loose in her hand, and waited. The dust began to settle, revealing the altered landscape. The basin would never look the same. The mountain had reclaimed what the Handler had tried to shape.
 
-Nora's hands shook as she fumbled for her radio. Her fingers were clumsy, numb. She pressed the transmit button, heard the blessed crackle of static.
+But as the adrenaline drained from her body, a cold certainty settled in its place. She'd won this battle. She'd buried the Handler, scattered its network.
 
-"Danny." Her voice came out as a rasp, barely recognizable. She cleared her throat, tried again. "Danny, this is Nora. Do you copy?"
+But the question that had driven her into the depths—*what was it teaching the bears, and why*—remained unanswered. And she couldn't shake the feeling that this had been only one Handler, in one basin, in one small corner of an ancient range.
 
-Static. Then: "Nora? Jesus, what's your status? We felt that all the way at the station. What happened?"
-
-"I need extraction." The words came in gasps. "Thunder Creek Basin. Upper boulder field. The Handler—it's gone. Buried. I triggered a rockslide. It's over."
-
-A long pause. "Say again? You triggered—"
-
-"It's over, Danny." Her voice cracked. The enormity of what she'd done, what she'd seen, was beginning to settle into her bones. "The Handler is buried. The bears scattered. I need extraction. Now."
-
-"Copy. Helicopter's already spinning up. ETA twenty minutes. Can you make it to the meadow clearing?"
-
-Nora looked down at the transformed landscape, at the tons of granite that now entombed the creature that had reshaped this mountain. "Yeah. I can make it."
-
-She stood on shaking legs and began picking her way down through the destruction, moving carefully around the fresh scree. Behind her, the mountain settled into its new shape, and the boundary—whatever it had been—was buried under stone and silence.
+Somewhere in the mountains, the pattern might still be unfolding.
