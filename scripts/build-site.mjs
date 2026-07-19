@@ -26,10 +26,13 @@ const manifestPath = path.join(bookDir, 'images', 'manifest.json')
 // illustration) don't - fall back to the reference portrait as the hero.
 const imageManifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : null
 const imageByChapter = imageManifest ? Object.fromEntries(imageManifest.images.map((i) => [i.chapter, i.filename])) : {}
-const refImageFile = fs.existsSync(path.join(bookDir, 'images'))
-  ? fs.readdirSync(path.join(bookDir, 'images')).find((f) => f.startsWith('0-reference'))
-  : null
-const heroImage = imageByChapter[0] || refImageFile
+const bookImagesDir = path.join(bookDir, 'images')
+const bookImages = fs.existsSync(bookImagesDir) ? fs.readdirSync(bookImagesDir) : []
+// A real generated cover (storyglue-cover.mjs) beats the raw reference
+// portrait as the hero/library-thumbnail image when one exists.
+const coverImageFile = bookImages.find((f) => f.startsWith('cover.'))
+const refImageFile = bookImages.find((f) => f.startsWith('0-reference'))
+const heroImage = imageByChapter[0] || coverImageFile || refImageFile
 
 // StoryGlue's outline.json (storyglue-outline.js) has no top-level
 // "premise" field, unlike the old pipeline's outline.js - it only scopes
@@ -56,8 +59,9 @@ if (imageManifest) {
   for (const img of imageManifest.images) {
     fs.copyFileSync(path.join(bookDir, 'images', img.filename), path.join(siteDir, 'images', img.filename))
   }
-} else if (refImageFile) {
-  fs.copyFileSync(path.join(bookDir, 'images', refImageFile), path.join(siteDir, 'images', refImageFile))
+} else if (refImageFile || coverImageFile) {
+  if (refImageFile) fs.copyFileSync(path.join(bookDir, 'images', refImageFile), path.join(siteDir, 'images', refImageFile))
+  if (coverImageFile) fs.copyFileSync(path.join(bookDir, 'images', coverImageFile), path.join(siteDir, 'images', coverImageFile))
 }
 fs.copyFileSync(path.join(ROOT, 'lib', 'site', 'style.css'), path.join(siteDir, 'style.css'))
 

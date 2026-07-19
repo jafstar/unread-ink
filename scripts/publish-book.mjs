@@ -42,8 +42,11 @@ for (const file of fs.readdirSync(path.join(srcSite, 'images'))) {
 const manifestPath = path.join(ROOT, 'public', 'books-manifest.json')
 const manifest = fs.existsSync(manifestPath) ? JSON.parse(fs.readFileSync(manifestPath, 'utf8')) : []
 const withoutThis = manifest.filter((b) => b.slug !== cleanSlug)
-const refImage = fs.readdirSync(path.join(destDir, 'images')).find((f) => f.startsWith('0-reference'))
-withoutThis.push({ slug: cleanSlug, title: outline.title, premise: outline.premise, image: refImage })
+// A real generated cover (storyglue-cover.mjs) beats the raw reference
+// portrait as the library-grid thumbnail when one exists.
+const destImages = fs.readdirSync(path.join(destDir, 'images'))
+const coverImage = destImages.find((f) => f.startsWith('cover.')) || destImages.find((f) => f.startsWith('0-reference'))
+withoutThis.push({ slug: cleanSlug, title: outline.title, premise: outline.premise, image: coverImage })
 fs.writeFileSync(manifestPath, JSON.stringify(withoutThis, null, 2))
 
 // Regenerate the landing page from the manifest.
