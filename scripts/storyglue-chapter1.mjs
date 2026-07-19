@@ -58,11 +58,37 @@ notes.forEach((n) => console.log(`  ${n.name} (${n.title}): ${n.note.slice(0, 10
 
 console.log('\n=== Lead Editor rewrite ===')
 const final = await leadEditChapter({ draft, notes, editorKey: winnerKey, keys })
-fs.writeFileSync(path.join(bookDir, 'chapter-01.md'), `# Chapter 1\n\n${final}\n`)
+
+// Real bug, live-caught: chapter 1 shipped with a bare "# Chapter 1"
+// heading, no title - build-site.mjs and storyglue-rhythm.mjs both
+// papered over this with a HARDCODED fallback title ("The Hemlock")
+// copy-pasted between files, which was only ever correct for the first
+// book that title was written for. Every subsequent book displayed the
+// WRONG chapter 1 title. Fix: generate a real title here, embed it in
+// the heading like every other chapter already has - single source of
+// truth, no more hardcoded fallback anywhere.
+console.log('\n=== Chapter 1 title ===')
+const chapter1Title = await callClaude(
+  `Chapter text:\n\n${final}`,
+  'You are titling Chapter 1 of a novel. Write ONE short, evocative title (2-5 words) matching typical literary chapter-title style. Output ONLY the title, no quotes, no "Chapter 1", no commentary.',
+  keys.claude
+)
+const cleanTitle = chapter1Title.trim().replace(/^["']|["']$/g, '')
+console.log(`  "${cleanTitle}"`)
+fs.writeFileSync(path.join(bookDir, 'chapter-01.md'), `# Chapter 1: ${cleanTitle}\n\n${final}\n`)
 
 console.log('\n=== Protagonist reference image ===')
+// Real bug, live-caught reading two different books side by side: this
+// protagonist (Petra Keane, disgraced geologist) and "The Boundary
+// Shift"'s Nora Cruz (ranger) both rendered as the same generic look -
+// dark hair in a low ponytail, olive/khaki utility jacket, weathered face.
+// Root cause: given two similar archetypes (competent field-professional
+// woman, 30s) and a thin prompt with no push toward distinctiveness, the
+// model defaults to the same genre template every time. Now explicit:
+// pick specific, concrete, varied physical details and actively avoid
+// that exact default combination.
 const charDescription = await callClaude(
-  `Winning plot:\n\n${winningPlot.plot}\n\nFinal chapter 1:\n\n${final}\n\nWrite ONE plain, concrete visual description of the protagonist for an illustrator - appearance, clothing, a couple of defining physical details. No plot, no personality, just what they look like. 1-2 sentences.`,
+  `Winning plot:\n\n${winningPlot.plot}\n\nFinal chapter 1:\n\n${final}\n\nWrite ONE plain, concrete visual description of the protagonist for an illustrator - appearance, clothing, a couple of defining physical details. No plot, no personality, just what they look like. Be SPECIFIC and individual, not a genre-default: pick a real hair color/texture/style, a real build, a real distinguishing feature (not just "weathered") - avoid the generic "rugged woman, dark hair in a low ponytail, olive/khaki field jacket" look unless the text specifically demands it. This needs to look like a distinct, memorable individual, not a stock archetype. 1-2 sentences.`,
   'You are a visual/casting consultant. Output only the description, no preamble, no markdown.',
   keys.claude
 )

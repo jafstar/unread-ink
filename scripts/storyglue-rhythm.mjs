@@ -5,6 +5,7 @@ import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { analyzeChapterText } from '../lib/pipeline/rhythmAnalysis.js'
+import { parseChapterTitle } from '../lib/pipeline/chapterTitle.js'
 
 const __dir = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dir, '..')
@@ -25,9 +26,10 @@ const chapterStats = []
 
 for (const file of chapterFiles) {
   const num = parseInt(file.match(/chapter-(\d+)\.md/)[1], 10)
+  const fullText = fs.readFileSync(path.join(bookDir, file), 'utf8')
   const meta = outline.chapters.find((c) => c.number === num)
-  const title = meta ? meta.title : num === 1 ? 'The Hemlock' : `Chapter ${num}`
-  const raw = fs.readFileSync(path.join(bookDir, file), 'utf8').replace(/^#[^\n]*\n\n/, '')
+  const title = meta ? meta.title : parseChapterTitle(fullText, num)
+  const raw = fullText.replace(/^#[^\n]*\n\n/, '')
   const analysis = analyzeChapterText(raw)
   const startParaIndex = globalParaIndex
 

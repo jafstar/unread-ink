@@ -1,0 +1,82 @@
+[
+  {
+    "chapter": 2,
+    "title": "The Serpent's Gate",
+    "intendedPace": "high",
+    "measuredPace": 0.568,
+    "measuredLabel": "high",
+    "matched": true
+  },
+  {
+    "chapter": 3,
+    "title": "The Confluence",
+    "intendedPace": "medium",
+    "measuredPace": 0.505,
+    "measuredLabel": "medium",
+    "matched": true
+  },
+  {
+    "chapter": 4,
+    "title": "The Weight of Silence",
+    "intendedPace": "low",
+    "measuredPace": 0.577,
+    "measuredLabel": "high",
+    "matched": false
+  },
+  {
+    "chapter": 5,
+    "title": "The Breath Beneath",
+    "intendedPace": "high",
+    "measuredPace": 0.592,
+    "measuredLabel": "high",
+    "matched": true
+  },
+  {
+    "chapter": 6,
+    "title": "The Hunters",
+    "intendedPace": "high",
+    "measuredPace": 0.503,
+    "measuredLabel": "medium",
+    "matched": false
+  },
+  {
+    "chapter": 7,
+    "title": "The Witness",
+    "intendedPace": "low",
+    "measuredPace": 0.48,
+    "measuredLabel": "medium",
+    "matched": false
+  },
+  {
+    "chapter": 8,
+    "title": "The Collapse Begins",
+    "intendedPace": "high",
+    "measuredPace": 0.493,
+    "measuredLabel": "medium",
+    "matched": false
+  },
+  {
+    "chapter": 9,
+    "title": "The Surface, Reconsidered",
+    "intendedPace": "low",
+    "measuredPace": 0.404,
+    "measuredLabel": "low",
+    "matched": true
+  },
+  {
+    "chapter": 10,
+    "title": "The Breath Released",
+    "intendedPace": "high",
+    "measuredPace": 0.564,
+    "measuredLabel": "high",
+    "matched": true
+  },
+  {
+    "chapter": 11,
+    "title": "What the Canyon Keeps",
+    "intendedPace": "low",
+    "measuredPace": 0.485,
+    "measuredLabel": "medium",
+    "matched": false
+  }
+]

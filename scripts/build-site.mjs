@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { parseChapterTitle } from '../lib/pipeline/chapterTitle.js'
 
 const __dir = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dir, '..')
@@ -38,7 +39,11 @@ const heroImage = imageByChapter[0] || coverImageFile || refImageFile
 // "premise" field, unlike the old pipeline's outline.js - it only scopes
 // chapters AFTER chapter 1, chapter 1 already having its own plot pitch.
 // Fall back to that pitch's "Premise:" line rather than rendering the
-// literal string "undefined" on the homepage.
+// literal string "undefined" on the homepage. Real bug found live: the
+// regex only matched bold "**Premise:**" - Radium formatted it as plain
+// "Premise:" (no asterisks) on a later book, same knight, inconsistent
+// markdown, and the extraction silently failed, empty subtitle. Now
+// matches with or without the bold markers.
 let premise = outline.premise
 if (!premise) {
   const plotsPath = path.join(bookDir, 'plots.json')
@@ -46,7 +51,7 @@ if (!premise) {
     const { plots } = JSON.parse(fs.readFileSync(plotsPath, 'utf8'))
     const winnerKeyArg = process.argv.find((a) => a.startsWith('--winner='))?.split('=')[1]
     const winningPlot = (winnerKeyArg && plots.find((p) => p.key === winnerKeyArg)) || plots[0]
-    const m = winningPlot?.plot.match(/\*\*Premise:\*\*\s*([^\n]+)/)
+    const m = winningPlot?.plot.match(/\*{0,2}Premise:\*{0,2}\s*([^\n]+)/)
     premise = m ? m[1].trim() : ''
   } else {
     premise = ''
@@ -126,9 +131,15 @@ function isReady(chapterNum) {
 // entry in outline.chapters at all, unlike the original all-up-front
 // Moby Dick pipeline where chapter 1 IS entry #1. Synthesize one so
 // chapter 1 still gets a real page instead of silently never being built.
+// Title comes from chapter-01.md's own heading (real bug found live: this
+// used to be a hardcoded 'The Hemlock' fallback, correct only for the
+// first book it was written for and silently wrong for every book since).
+const chapter1Title = fs.existsSync(path.join(bookDir, 'chapter-01.md'))
+  ? parseChapterTitle(fs.readFileSync(path.join(bookDir, 'chapter-01.md'), 'utf8'), 1)
+  : 'Chapter 1'
 const allChapters = outline.chapters.some((c) => c.number === 1)
   ? outline.chapters
-  : [{ number: 1, title: 'The Hemlock', summary: '' }, ...outline.chapters]
+  : [{ number: 1, title: chapter1Title, summary: '' }, ...outline.chapters]
 
 // Contents page.
 const tocItems = allChapters.map((c) => {

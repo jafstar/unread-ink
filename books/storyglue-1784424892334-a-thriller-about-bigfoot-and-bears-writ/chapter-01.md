@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1: The Hemlock
 
 The wait was a kind of penance. The hemlock loomed over Nora like a monolith, the body a grim pendant on its ancient limbs. She forced herself to breathe slowly, capturing each shadow in her notebook until the arrival of the search and rescue team broke the forest’s stillness.
 
