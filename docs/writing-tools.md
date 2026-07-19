@@ -60,6 +60,11 @@ The outline stage (Lead Editor scoping the book after Chapter 1 is written) now 
 
 Reactive pacing, built on real measured data, not a plan made once and forgotten. Before writing chapter N: (a) the outline's declared `intendedPace` for this chapter becomes an explicit writing instruction, and (b) the *actual measured pace* of chapter N-1 is checked — if it ran unusually fast or slow, the next chapter gets nudged the other direction even if the outline didn't explicitly plan for it (avoiding three consecutive chapters in the same register). After the chapter is finished, its own actual measured pace is compared against what was planned and logged as MATCHED or DRIFTED — a real, inspectable plan-vs-actual record, not just an assertion that the mechanism works.
 
+### 6. Lexical Repetition Checker
+**File:** `lib/pipeline/lexicalAnalysis.js` → `lexicalSteerInstruction()`
+
+Real finding, live-caught reading two completely different books side by side: near-identical word counts regardless of story - "fingers" 23 vs 26 occurrences, "slick" 8 vs 8 (exact), "hum" 49 vs 38, "brush" 14 vs 14 (exact), across "The Breath of the Serpent" and "The Boundary Shift." Not story-specific drift - a genuine default vocabulary tic the underlying models reach for on "mysterious ancient thing + thriller tension" content, regardless of premise. Two-part fix: (1) a confirmed cross-book tic list (`KNOWN_TICS`: hum, vibration, fingers, slick, brush, resonance, pulse and their variants) is flagged in every chapter's writer instructions from chapter 1 onward, not just after it accumulates within one book, and (2) real word-frequency counting on what's actually been written so far in THIS book flags anything independently overused beyond the known list. Combined into one explicit "avoid these, find fresh alternatives" instruction fed to the writer relay before each chapter is drafted.
+
 ---
 
 ## Planned, not yet built

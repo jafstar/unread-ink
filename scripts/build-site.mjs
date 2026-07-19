@@ -44,7 +44,24 @@ const heroImage = imageByChapter[0] || coverImageFile || refImageFile
 // "Premise:" (no asterisks) on a later book, same knight, inconsistent
 // markdown, and the extraction silently failed, empty subtitle. Now
 // matches with or without the bold markers.
-let premise = outline.premise
+// Real bug found live: the extracted "Premise:" line is a full multi-
+// sentence paragraph (that's what the knights write) - rendered whole as
+// the hero subtitle, it swallowed the entire homepage. A hero subtitle
+// needs to be a logline, not a paragraph. First attempt used a "first
+// sentence" regex, which broke on abbreviations - "G.E. Kincaid's
+// journal" got read as a sentence ending after "G.E." A hard character
+// cap at a word boundary is simpler and doesn't need real sentence-
+// boundary detection to get right.
+function toLogline(text, maxLen = 140) {
+  if (!text) return text
+  const trimmed = text.trim()
+  if (trimmed.length <= maxLen) return trimmed
+  const cut = trimmed.slice(0, maxLen)
+  const lastSpace = cut.lastIndexOf(' ')
+  return (lastSpace > 0 ? cut.slice(0, lastSpace) : cut).trim() + '…'
+}
+
+let premise = outline.premise ? toLogline(outline.premise) : outline.premise
 if (!premise) {
   const plotsPath = path.join(bookDir, 'plots.json')
   if (fs.existsSync(plotsPath)) {
@@ -52,7 +69,7 @@ if (!premise) {
     const winnerKeyArg = process.argv.find((a) => a.startsWith('--winner='))?.split('=')[1]
     const winningPlot = (winnerKeyArg && plots.find((p) => p.key === winnerKeyArg)) || plots[0]
     const m = winningPlot?.plot.match(/\*{0,2}Premise:\*{0,2}\s*([^\n]+)/)
-    premise = m ? m[1].trim() : ''
+    premise = m ? toLogline(m[1].trim()) : ''
   } else {
     premise = ''
   }
