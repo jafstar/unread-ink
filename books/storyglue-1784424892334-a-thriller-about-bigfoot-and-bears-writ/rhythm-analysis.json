@@ -1,0 +1,4243 @@
+{
+  "book": "The Boundary Shift",
+  "totalParagraphs": 407,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Hemlock",
+      "paragraphCount": 25,
+      "wordCount": 766,
+      "avgPace": 0.525,
+      "shape": {
+        "open": 0.583,
+        "mid": 0.658,
+        "close": 0.357,
+        "pattern": "spike-then-settle"
+      },
+      "startParaIndex": 0,
+      "endParaIndex": 24
+    },
+    {
+      "number": 2,
+      "title": "The Cache",
+      "paragraphCount": 25,
+      "wordCount": 1163,
+      "avgPace": 0.447,
+      "shape": {
+        "open": 0.521,
+        "mid": 0.505,
+        "close": 0.33,
+        "pattern": "front-loaded"
+      },
+      "startParaIndex": 25,
+      "endParaIndex": 49
+    },
+    {
+      "number": 3,
+      "title": "The Bear That Watched",
+      "paragraphCount": 22,
+      "wordCount": 994,
+      "avgPace": 0.435,
+      "shape": {
+        "open": 0.433,
+        "mid": 0.453,
+        "close": 0.421,
+        "pattern": "steady"
+      },
+      "startParaIndex": 50,
+      "endParaIndex": 71
+    },
+    {
+      "number": 4,
+      "title": "The Diary's Voice",
+      "paragraphCount": 17,
+      "wordCount": 889,
+      "avgPace": 0.377,
+      "shape": {
+        "open": 0.393,
+        "mid": 0.438,
+        "close": 0.321,
+        "pattern": "front-loaded"
+      },
+      "startParaIndex": 72,
+      "endParaIndex": 88
+    },
+    {
+      "number": 5,
+      "title": "The Handler",
+      "paragraphCount": 25,
+      "wordCount": 927,
+      "avgPace": 0.557,
+      "shape": {
+        "open": 0.545,
+        "mid": 0.597,
+        "close": 0.532,
+        "pattern": "spike-then-settle"
+      },
+      "startParaIndex": 89,
+      "endParaIndex": 113
+    },
+    {
+      "number": 6,
+      "title": "The Missing Thru-Hikers",
+      "paragraphCount": 27,
+      "wordCount": 1109,
+      "avgPace": 0.461,
+      "shape": {
+        "open": 0.491,
+        "mid": 0.466,
+        "close": 0.427,
+        "pattern": "front-loaded"
+      },
+      "startParaIndex": 114,
+      "endParaIndex": 140
+    },
+    {
+      "number": 7,
+      "title": "The High Meadow Trial",
+      "paragraphCount": 45,
+      "wordCount": 1685,
+      "avgPace": 0.447,
+      "shape": {
+        "open": 0.439,
+        "mid": 0.458,
+        "close": 0.444,
+        "pattern": "steady"
+      },
+      "startParaIndex": 141,
+      "endParaIndex": 185
+    },
+    {
+      "number": 8,
+      "title": "The Forest Bureau's Inquiry",
+      "paragraphCount": 77,
+      "wordCount": 1684,
+      "avgPace": 0.608,
+      "shape": {
+        "open": 0.699,
+        "mid": 0.489,
+        "close": 0.635,
+        "pattern": "dip-then-rise"
+      },
+      "startParaIndex": 186,
+      "endParaIndex": 262
+    },
+    {
+      "number": 9,
+      "title": "The Subterranean Chamber",
+      "paragraphCount": 32,
+      "wordCount": 1095,
+      "avgPace": 0.414,
+      "shape": {
+        "open": 0.371,
+        "mid": 0.43,
+        "close": 0.437,
+        "pattern": "escalating"
+      },
+      "startParaIndex": 263,
+      "endParaIndex": 294
+    },
+    {
+      "number": 10,
+      "title": "The Landslide",
+      "paragraphCount": 37,
+      "wordCount": 926,
+      "avgPace": 0.475,
+      "shape": {
+        "open": 0.428,
+        "mid": 0.413,
+        "close": 0.576,
+        "pattern": "escalating"
+      },
+      "startParaIndex": 295,
+      "endParaIndex": 331
+    },
+    {
+      "number": 11,
+      "title": "The Second Trail",
+      "paragraphCount": 75,
+      "wordCount": 1916,
+      "avgPace": 0.594,
+      "shape": {
+        "open": 0.643,
+        "mid": 0.696,
+        "close": 0.442,
+        "pattern": "spike-then-settle"
+      },
+      "startParaIndex": 332,
+      "endParaIndex": 406
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 0,
+      "wordCount": 49,
+      "avgSentenceLen": 16.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.285,
+      "excerpt": "The wait was a kind of penance. The hemlock loomed over Nora like a monolith, the body a g"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 1,
+      "wordCount": 37,
+      "avgSentenceLen": 12.3,
+      "dialogueRatio": 0.06,
+      "paceScore": 0.405,
+      "excerpt": "The team leader, Danny Moore, strode up with climbing ropes slung across his chest, sungla"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 2,
+      "wordCount": 27,
+      "avgSentenceLen": 13.5,
+      "dialogueRatio": 0.34,
+      "paceScore": 0.545,
+      "excerpt": "\"Climbing won't be easy here,\" Nora said, gesturing to the slick hemlock. \"But it's the on"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 3,
+      "wordCount": 26,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "Danny squinted up at the body, then shouted commands to his team to set up anchors and pul"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 4,
+      "wordCount": 17,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0.41,
+      "paceScore": 0.695,
+      "excerpt": "\"It doesn't look like a bear attack,\" she said. She tried to keep her voice even, factual."
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 5,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"What makes you say that?\""
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 6,
+      "wordCount": 23,
+      "avgSentenceLen": 5.8,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"The claw marks on the bark. Too precise. And there's something else. I found a track, but"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 7,
+      "wordCount": 14,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.51,
+      "paceScore": 0.779,
+      "excerpt": "Danny removed his sunglasses, eyes serious. \"You think it's something other than a bear?\""
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 8,
+      "wordCount": 29,
+      "avgSentenceLen": 9.7,
+      "dialogueRatio": 0.92,
+      "paceScore": 0.862,
+      "excerpt": "\"There's more going on here,\" she replied. \"I need to check the old incident logs, see if "
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 9,
+      "wordCount": 7,
+      "avgSentenceLen": 2.3,
+      "dialogueRatio": 0.55,
+      "paceScore": 0.8,
+      "excerpt": "Danny nodded slowly. \"Alright. Keep me posted.\""
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 10,
+      "wordCount": 32,
+      "avgSentenceLen": 16,
+      "dialogueRatio": 0,
+      "paceScore": 0.292,
+      "excerpt": "The team retrieved the body, maneuvering ropes and bodies in a practiced ballet of grim pr"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 11,
+      "wordCount": 32,
+      "avgSentenceLen": 10.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.403,
+      "excerpt": "The musky scent lingered, whispering warnings with every breeze. Nora's muscles twitched, "
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 12,
+      "wordCount": 18,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0.5,
+      "paceScore": 0.8,
+      "excerpt": "Danny approached, a new tightness in his posture. \"We're clear here. Help's on the way for"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 13,
+      "wordCount": 25,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0.92,
+      "paceScore": 0.751,
+      "excerpt": "\"I need to follow up on that footprint,\" Nora said. \"And I'll cross-reference the reports "
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 14,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Stay sharp, Nora.\""
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 15,
+      "wordCount": 8,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0.16,
+      "paceScore": 0.557,
+      "excerpt": "\"Always,\" she replied, already moving toward the trees."
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 16,
+      "wordCount": 45,
+      "avgSentenceLen": 15,
+      "dialogueRatio": 0,
+      "paceScore": 0.313,
+      "excerpt": "The sun had dipped lower by the time she made it back to the ranger station. Its waning li"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 17,
+      "wordCount": 61,
+      "avgSentenceLen": 20.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.267,
+      "excerpt": "Nora sank into her chair and booted up the dusty desktop, fingers flying over the keys as "
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 18,
+      "wordCount": 43,
+      "avgSentenceLen": 21.5,
+      "dialogueRatio": 0.05,
+      "paceScore": 0.205,
+      "excerpt": "\"Samsquatch\" was the word that caught her eye, a relic name infused with folklore and incr"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 19,
+      "wordCount": 84,
+      "avgSentenceLen": 8.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.498,
+      "excerpt": "Nora pulled the box from a shelf, dust sifting into the air. Inside, a worn leather notebo"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 20,
+      "wordCount": 55,
+      "avgSentenceLen": 13.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.411,
+      "excerpt": "Further entries described missing livestock, strange prints, trees stripped to the bone. B"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 21,
+      "wordCount": 25,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.451,
+      "excerpt": "Nora's chest tightened. She was not looking for a creature that left tracks. She was looki"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 22,
+      "wordCount": 41,
+      "avgSentenceLen": 10.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.509,
+      "excerpt": "She drew lines, connecting dots across maps crumpled and yellowed with time. The attacks c"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 23,
+      "wordCount": 40,
+      "avgSentenceLen": 13.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.347,
+      "excerpt": "Too late, evening had morphed into night. Her eyes ached with fatigue, but her mind buzzed"
+    },
+    {
+      "chapter": 1,
+      "chapterTitle": "The Hemlock",
+      "paraIndex": 24,
+      "wordCount": 20,
+      "avgSentenceLen": 20,
+      "dialogueRatio": 0,
+      "paceScore": 0.208,
+      "excerpt": "Lives were at stake, and the unseen dangers of the North Cascades swirled in the dark, wai"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 25,
+      "wordCount": 58,
+      "avgSentenceLen": 14.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.392,
+      "excerpt": "The forest was waking around her as Nora trekked toward Thunder Creek Basin. Mist clung to"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 26,
+      "wordCount": 116,
+      "avgSentenceLen": 19.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.257,
+      "excerpt": "Each step brought her closer to a truth she dreaded to uncover. She wiped her brow, the ea"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 27,
+      "wordCount": 57,
+      "avgSentenceLen": 19,
+      "dialogueRatio": 0,
+      "paceScore": 0.299,
+      "excerpt": "The approach to the basin was a gradual climb, but the air felt heavier, pressing around h"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 28,
+      "wordCount": 24,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.542,
+      "excerpt": "Her radio crackled—a sudden, harsh sound that startled her in the enveloping quiet. She fu"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 29,
+      "wordCount": 12,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0.38,
+      "paceScore": 0.601,
+      "excerpt": "\"Nora, you got your ears on?\" Danny's voice came through, unexpectedly clear."
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 30,
+      "wordCount": 10,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0.18,
+      "paceScore": 0.527,
+      "excerpt": "\"I'm here,\" she replied, readjusting her grip on the device."
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 31,
+      "wordCount": 7,
+      "avgSentenceLen": 3.5,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Just checking in. You're still out there?\""
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 32,
+      "wordCount": 21,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.44,
+      "paceScore": 0.746,
+      "excerpt": "\"Yeah. On approach. I'll update once I'm closer in,\" Nora said, the weight of his concern "
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 33,
+      "wordCount": 8,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Good. Remember, you got eyes back here too.\""
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 34,
+      "wordCount": 15,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0.3,
+      "paceScore": 0.678,
+      "excerpt": "She nodded instinctively, comforted by his words despite the distance. \"Copy that, Danny. "
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 35,
+      "wordCount": 29,
+      "avgSentenceLen": 14.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.323,
+      "excerpt": "The radio clicked off, leaving a foreign quiet that seeped back in, more visceral now. Nor"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 36,
+      "wordCount": 87,
+      "avgSentenceLen": 14.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.415,
+      "excerpt": "The trees grew denser, branches knitting an overhead tapestry that shadowed her path. A co"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 37,
+      "wordCount": 46,
+      "avgSentenceLen": 11.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.472,
+      "excerpt": "A sudden stillness lifted every hair at the nape of her neck. The forest paused around her"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 38,
+      "wordCount": 22,
+      "avgSentenceLen": 7.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.472,
+      "excerpt": "Something snapped loudly in the brush to her left. Her head whipped around, pulse quickeni"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 39,
+      "wordCount": 41,
+      "avgSentenceLen": 13.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "Then a broad, hulking form shuffled into view—a grizzly, massive and honey-colored, its ey"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 40,
+      "wordCount": 79,
+      "avgSentenceLen": 11.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.441,
+      "excerpt": "It stood there, as if weighing the balance of the encounter, long enough for her to memori"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 41,
+      "wordCount": 39,
+      "avgSentenceLen": 19.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.219,
+      "excerpt": "The creature snorted, an explosive exhalation of air, but turned and ambled away, leaves r"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 42,
+      "wordCount": 51,
+      "avgSentenceLen": 12.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "Could the grizzly have been used, manipulated like she suspected from the camera patterns?"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 43,
+      "wordCount": 33,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0,
+      "paceScore": 0.396,
+      "excerpt": "She moved again, quicker now, driven by a renewed urgency. The shadows deepened, narrowing"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 44,
+      "wordCount": 131,
+      "avgSentenceLen": 11.9,
+      "dialogueRatio": 0,
+      "paceScore": 0.468,
+      "excerpt": "Then she saw it—a half-hidden ledge where the undergrowth thinned. Soil shifted in a disor"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 45,
+      "wordCount": 55,
+      "avgSentenceLen": 18.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.316,
+      "excerpt": "She documented the site quickly, snapping pictures with her phone, her fingers steady desp"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 46,
+      "wordCount": 85,
+      "avgSentenceLen": 28.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.129,
+      "excerpt": "As the day stretched forward, she continued deeper into the basin, no more surprises lying"
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 47,
+      "wordCount": 61,
+      "avgSentenceLen": 12.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.371,
+      "excerpt": "The light dimmed as afternoon waned toward evening. A decision loomed: push forward until "
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 48,
+      "wordCount": 58,
+      "avgSentenceLen": 11.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.383,
+      "excerpt": "With deliberate care, she eased back, marking the trail of truths she had uncovered today."
+    },
+    {
+      "chapter": 2,
+      "chapterTitle": "The Cache",
+      "paraIndex": 49,
+      "wordCount": 18,
+      "avgSentenceLen": 18,
+      "dialogueRatio": 0,
+      "paceScore": 0.25,
+      "excerpt": "Nora retraced her steps, leaving Thunder Creek slowly, halting only on occasion to listen "
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 50,
+      "wordCount": 74,
+      "avgSentenceLen": 14.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.371,
+      "excerpt": "The next morning, Thunder Creek Basin felt different. Not just because the sun climbed hig"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 51,
+      "wordCount": 51,
+      "avgSentenceLen": 12.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.359,
+      "excerpt": "The air was crisp, scented with pine and damp earth. A distant raven cawed, its call echoi"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 52,
+      "wordCount": 9,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "She’d only gone another mile when she saw it."
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 53,
+      "wordCount": 48,
+      "avgSentenceLen": 9.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.425,
+      "excerpt": "A black bear. Not the honey-colored grizzly from yesterday, but a sleek, dark form foragin"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 54,
+      "wordCount": 55,
+      "avgSentenceLen": 7.9,
+      "dialogueRatio": 0,
+      "paceScore": 0.534,
+      "excerpt": "The bear lifted its head. Its eyes locked onto hers. It did not growl. It did not snort. I"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 55,
+      "wordCount": 80,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0,
+      "paceScore": 0.417,
+      "excerpt": "Nora’s hand went to her rifle, then stopped. The bear’s front paws hung loose at its sides"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 56,
+      "wordCount": 72,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.486,
+      "excerpt": "Then the bear turned. Not a lumbering pivot but a clean, almost human shift of weight. It "
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 57,
+      "wordCount": 56,
+      "avgSentenceLen": 9.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.431,
+      "excerpt": "Nora lowered her binoculars. Her heart hammered a slow, uneven beat against her ribs. *It "
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 58,
+      "wordCount": 49,
+      "avgSentenceLen": 8.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.455,
+      "excerpt": "The bear was gone. But a few yards deeper, where the thicket thinned into a small, moss-co"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 59,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "A grave."
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 60,
+      "wordCount": 41,
+      "avgSentenceLen": 10.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.411,
+      "excerpt": "Nora approached cautiously, her senses screaming. A scrap of denim, mud-stained and torn, "
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 61,
+      "wordCount": 40,
+      "avgSentenceLen": 6.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.486,
+      "excerpt": "The soil was soft, easy to dislodge. Beneath it, the hiker lay. Face down, arms splayed. N"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 62,
+      "wordCount": 64,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "She worked quickly, gently, exposing the back of the hiker’s skull. There, at the base, ju"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 63,
+      "wordCount": 28,
+      "avgSentenceLen": 9.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.431,
+      "excerpt": "She recognized the gear, the faded logo on the backpack. A missing hiker. Forest Service h"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 64,
+      "wordCount": 40,
+      "avgSentenceLen": 13.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.347,
+      "excerpt": "Nora retrieved her GPS unit, logging the coordinates. Then, from her pack, she took a ster"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 65,
+      "wordCount": 86,
+      "avgSentenceLen": 14.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.512,
+      "excerpt": "She carefully re-covered the body, smoothing the earth back into place, restoring the illu"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 66,
+      "wordCount": 32,
+      "avgSentenceLen": 10.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.403,
+      "excerpt": "As she stood, brushing the soil from her pants, she felt it. That familiar prickle on her "
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 67,
+      "wordCount": 16,
+      "avgSentenceLen": 3.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The black bear stood there. Still as stone. Watching her. It hadn’t left. It had waited."
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 68,
+      "wordCount": 30,
+      "avgSentenceLen": 15,
+      "dialogueRatio": 0,
+      "paceScore": 0.313,
+      "excerpt": "Nora gripped her rifle, but she did not raise it. Instead, she met the bear’s dark eyes an"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 69,
+      "wordCount": 25,
+      "avgSentenceLen": 12.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.365,
+      "excerpt": "The bear did not react. It held her gaze for another long moment, then turned and disappea"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 70,
+      "wordCount": 67,
+      "avgSentenceLen": 11.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.452,
+      "excerpt": "Nora stood in the clearing, the weight of discovery settling into something sharper—a ques"
+    },
+    {
+      "chapter": 3,
+      "chapterTitle": "The Bear That Watched",
+      "paraIndex": 71,
+      "wordCount": 29,
+      "avgSentenceLen": 7.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.474,
+      "excerpt": "As she made her way out of Thunder Creek, the woods whispered behind her. She did not look"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 72,
+      "wordCount": 63,
+      "avgSentenceLen": 21,
+      "dialogueRatio": 0,
+      "paceScore": 0.188,
+      "excerpt": "The ranger station lay cold and silent when Nora finally pushed through the door, the fore"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 73,
+      "wordCount": 79,
+      "avgSentenceLen": 9.9,
+      "dialogueRatio": 0,
+      "paceScore": 0.521,
+      "excerpt": "She prepared the slide with methodical precision, her fingers steady even as the forest’s "
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 74,
+      "wordCount": 78,
+      "avgSentenceLen": 8.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.496,
+      "excerpt": "Her mental catalog flicked through local flora. Not red cedar, not hemlock. The resin spar"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 75,
+      "wordCount": 17,
+      "avgSentenceLen": 5.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She stared at the slide. The resin was not incidental. The tissue had come from a bear."
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 76,
+      "wordCount": 70,
+      "avgSentenceLen": 17.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.26,
+      "excerpt": "Nora wiped her hands on her thighs and crossed to her office, pulling the old leather-boun"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 77,
+      "wordCount": 93,
+      "avgSentenceLen": 23.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.184,
+      "excerpt": "The journal covered three years of patrols in the high country around Holman Peak. On almo"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 78,
+      "wordCount": 66,
+      "avgSentenceLen": 9.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.55,
+      "excerpt": "She began tracing the symbols across the maps taped into the journal’s spine. The circles "
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 79,
+      "wordCount": 50,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0,
+      "paceScore": 0.497,
+      "excerpt": "Nora leaned closer, her breath fogging the brittle paper. She found a page where the range"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 80,
+      "wordCount": 33,
+      "avgSentenceLen": 4.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She turned the page. The ranger had written, in block capitals: *WHITEBARK GROVES STRIPPED"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 81,
+      "wordCount": 8,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "The word *drives* had been underlined three times."
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 82,
+      "wordCount": 98,
+      "avgSentenceLen": 16.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.366,
+      "excerpt": "Nora sat back, the weight of understanding settling into her chest. The resin on the tissu"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 83,
+      "wordCount": 36,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "Her radio broke the silence, a crackle of static followed by Danny’s clipped voice, urgent"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 84,
+      "wordCount": 41,
+      "avgSentenceLen": 6.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.483,
+      "excerpt": "She felt the tug of fear and responsibility, knowing the terrain intimately. The groves. T"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 85,
+      "wordCount": 10,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0,
+      "paceScore": 0.417,
+      "excerpt": "“I’ll head in tonight,” Nora stated, resolve threading her voice."
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 86,
+      "wordCount": 12,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "Danny paused before consenting with a sigh. “Be careful out there, Nora.”"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 87,
+      "wordCount": 60,
+      "avgSentenceLen": 30,
+      "dialogueRatio": 0,
+      "paceScore": 0.067,
+      "excerpt": "Minutes later, the office hummed with her preparation—the methodical gathering of supplies"
+    },
+    {
+      "chapter": 4,
+      "chapterTitle": "The Diary's Voice",
+      "paraIndex": 88,
+      "wordCount": 75,
+      "avgSentenceLen": 25,
+      "dialogueRatio": 0,
+      "paceScore": 0.104,
+      "excerpt": "Darkness had crept over the forest by the time she stepped outside, the irregular rhythm o"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 89,
+      "wordCount": 107,
+      "avgSentenceLen": 21.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.254,
+      "excerpt": "The rain had left behind a damp chill that seeped through Nora's clothes as she moved thro"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 90,
+      "wordCount": 63,
+      "avgSentenceLen": 15.8,
+      "dialogueRatio": 0.05,
+      "paceScore": 0.326,
+      "excerpt": "The storm broke over her in sheets, but she pushed forward through the night, following th"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 91,
+      "wordCount": 36,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0.21,
+      "paceScore": 0.561,
+      "excerpt": "She paused, hand on the radio, weighing her words. The urge to tell him everything vied wi"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 92,
+      "wordCount": 8,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 1,
+      "paceScore": 0.758,
+      "excerpt": "\"Have you found any signs of the hikers?\""
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 93,
+      "wordCount": 16,
+      "avgSentenceLen": 5.3,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Nothing concrete yet. The terrain's rough. I'm following some tracks, but the rain's wash"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 94,
+      "wordCount": 26,
+      "avgSentenceLen": 6.5,
+      "dialogueRatio": 0.47,
+      "paceScore": 0.772,
+      "excerpt": "A pause. She knew Danny could hear the evasion, the gaps in her story. \"Don't do anything "
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 95,
+      "wordCount": 17,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0.31,
+      "paceScore": 0.636,
+      "excerpt": "\"Copy that,\" she said, turning her gaze back towards the tangle of trees ahead. \"I'll be c"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 96,
+      "wordCount": 18,
+      "avgSentenceLen": 18,
+      "dialogueRatio": 0,
+      "paceScore": 0.25,
+      "excerpt": "Silence lengthened across the radio waves, the connection fragile against the backdrop of "
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 97,
+      "wordCount": 52,
+      "avgSentenceLen": 17.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.264,
+      "excerpt": "She continued her ascent toward the whitebark groves, each step scraping against the raw n"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 98,
+      "wordCount": 93,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.535,
+      "excerpt": "By midday she reached the first grove. The whitebark pines stood skeletal, their bark stri"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 99,
+      "wordCount": 43,
+      "avgSentenceLen": 10.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.494,
+      "excerpt": "She photographed everything, her pulse quickening. This was a marker, territorial and deli"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 100,
+      "wordCount": 32,
+      "avgSentenceLen": 5.3,
+      "dialogueRatio": 0.86,
+      "paceScore": 0.8,
+      "excerpt": "Her radio crackled again. \"Nora, we've got a development. Found one of the hiker's packs n"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 101,
+      "wordCount": 12,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0.69,
+      "paceScore": 0.8,
+      "excerpt": "Her stomach turned. \"I'm close to that area. I'll check it out.\""
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 102,
+      "wordCount": 12,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Negative. We're sending a team. You need to pull back and rendezvous.\""
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 103,
+      "wordCount": 48,
+      "avgSentenceLen": 9.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.508,
+      "excerpt": "But Nora was already moving, following the drainage downslope. The creature was leaving br"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 104,
+      "wordCount": 51,
+      "avgSentenceLen": 5.1,
+      "dialogueRatio": 0,
+      "paceScore": 0.578,
+      "excerpt": "She found the pack within an hour. Danny's description was accurate—laid flat, zippers ope"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 105,
+      "wordCount": 21,
+      "avgSentenceLen": 5.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.69,
+      "excerpt": "Nora's breath caught. She scanned the treeline. Nothing moved. But the warmth of the feath"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 106,
+      "wordCount": 48,
+      "avgSentenceLen": 6.9,
+      "dialogueRatio": 0,
+      "paceScore": 0.482,
+      "excerpt": "And beside the arrangement, pressed into the soft mud: that same impossible footprint. Lon"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 107,
+      "wordCount": 33,
+      "avgSentenceLen": 6.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.488,
+      "excerpt": "Nora crouched, her breath shallow. She was close. The tracks were getting fresher. The cre"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 108,
+      "wordCount": 63,
+      "avgSentenceLen": 10.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.47,
+      "excerpt": "A sound reached her—low, resonant, vibrating up through the ground itself. The hum the old"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 109,
+      "wordCount": 45,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.469,
+      "excerpt": "She stood slowly, rifle ready, scanning the treeline. Nothing moved. But the hum continued"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 110,
+      "wordCount": 21,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.23,
+      "paceScore": 0.82,
+      "excerpt": "Her radio crackled one more time. \"Nora—\" Danny's voice fractured with static. \"—reading u"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 111,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She was alone."
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 112,
+      "wordCount": 51,
+      "avgSentenceLen": 10.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.413,
+      "excerpt": "The hum grew louder, and Nora turned toward its source, deeper into the whitebark country,"
+    },
+    {
+      "chapter": 5,
+      "chapterTitle": "The Handler",
+      "paraIndex": 113,
+      "wordCount": 8,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "The journey through the dark had truly begun."
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 114,
+      "wordCount": 55,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0,
+      "paceScore": 0.396,
+      "excerpt": "The hum intensified, a low thrum that bypassed Nora's ears, settling in her bones. It pull"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 115,
+      "wordCount": 66,
+      "avgSentenceLen": 16.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.281,
+      "excerpt": "She moved with an almost primal instinct, rifle held ready, every nerve thrumming in sync "
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 116,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "And there it was."
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 117,
+      "wordCount": 32,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "The second missing hiker. A young man, his pack neatly placed beside him like a pillow. Hi"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 118,
+      "wordCount": 28,
+      "avgSentenceLen": 5.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Nora stopped. The scene was a grotesque parody of rest. She had seen bodies before, mauled"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 119,
+      "wordCount": 43,
+      "avgSentenceLen": 7.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.476,
+      "excerpt": "She approached, her boots crunching softly on the wet gravel. The hum receded slightly, a "
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 120,
+      "wordCount": 44,
+      "avgSentenceLen": 5.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Nora knelt, gloved fingers trembling slightly as she unbuttoned his shirt. Her breath hitc"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 121,
+      "wordCount": 64,
+      "avgSentenceLen": 9.1,
+      "dialogueRatio": 0,
+      "paceScore": 0.435,
+      "excerpt": "And on his ribs, just beneath the collarbone, were claw marks. Four parallel lines, etched"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 122,
+      "wordCount": 25,
+      "avgSentenceLen": 6.3,
+      "dialogueRatio": 0.36,
+      "paceScore": 0.869,
+      "excerpt": "She fumbled for her radio, her mind screaming for Danny, for backup, for any human voice. "
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 123,
+      "wordCount": 27,
+      "avgSentenceLen": 5.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Static roared in her ear. A blinding burst of white noise, then silence. Utter, complete s"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 124,
+      "wordCount": 39,
+      "avgSentenceLen": 5.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.603,
+      "excerpt": "Her signal was gone. She keyed the mic again. Nothing. A third time. Dead air. The creatur"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 125,
+      "wordCount": 104,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "The light began to fail, bleeding from gray to bruised purple. The air grew colder, heavy "
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 126,
+      "wordCount": 33,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.453,
+      "excerpt": "As darkness descended fully, plunging the basin into a deep, starless black, the fog thick"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 127,
+      "wordCount": 32,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "She packed her gear, senses straining into the oppressive dark. Her skin crawled. The hum "
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 128,
+      "wordCount": 55,
+      "avgSentenceLen": 6.9,
+      "dialogueRatio": 0,
+      "paceScore": 0.482,
+      "excerpt": "Then she heard it. A snort. The rustle of heavy brush. A low growl, deep in its throat. No"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 129,
+      "wordCount": 8,
+      "avgSentenceLen": 2.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "A bear. Black bear. Heading straight for her."
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 130,
+      "wordCount": 48,
+      "avgSentenceLen": 9.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.425,
+      "excerpt": "Nora moved. No time for thought, only instinct. She scrambled, rifle still clutched, towar"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 131,
+      "wordCount": 59,
+      "avgSentenceLen": 9.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.42,
+      "excerpt": "She climbed, muscles burning, breath ragged, ignoring the scrapes and gashes. Up, up, unti"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 132,
+      "wordCount": 14,
+      "avgSentenceLen": 14,
+      "dialogueRatio": 0,
+      "paceScore": 0.333,
+      "excerpt": "Then, from the inky blackness at the base of the cliff, a form resolved."
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 133,
+      "wordCount": 82,
+      "avgSentenceLen": 6.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.531,
+      "excerpt": "Massive. Bipedal. It stood there, silhouetted against the slightly lighter gray of the cre"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 134,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The Handler."
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 135,
+      "wordCount": 81,
+      "avgSentenceLen": 10.1,
+      "dialogueRatio": 0,
+      "paceScore": 0.414,
+      "excerpt": "The bear below, still circling, let out a deep huff. It paused, nose twitching. Then, a lo"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 136,
+      "wordCount": 33,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0,
+      "paceScore": 0.396,
+      "excerpt": "The bear stopped. It stood still for a moment, then turned. Without another sound, without"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 137,
+      "wordCount": 53,
+      "avgSentenceLen": 8.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.441,
+      "excerpt": "Nora clung to the cliff face, muscles screaming, heart hammering a frantic rhythm. The Han"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 138,
+      "wordCount": 36,
+      "avgSentenceLen": 7.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.475,
+      "excerpt": "A new, terrifying clarity washed over her. It wasn't hunting her. It had given her a gift:"
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 139,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "And it wanted her to follow."
+    },
+    {
+      "chapter": 6,
+      "chapterTitle": "The Missing Thru-Hikers",
+      "paraIndex": 140,
+      "wordCount": 36,
+      "avgSentenceLen": 18,
+      "dialogueRatio": 0,
+      "paceScore": 0.25,
+      "excerpt": "Nora looked down at the silent, colossal figure at the base of the cliff, its arm-lines pu"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 141,
+      "wordCount": 34,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.448,
+      "excerpt": "Nora clung to the cold granite, watching the colossal silhouette at the cliff's base. The "
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 142,
+      "wordCount": 30,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.469,
+      "excerpt": "After a long minute, the Handler moved. Not a walk, but a glide. Fluid, silent. It merged "
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 143,
+      "wordCount": 48,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "Nora waited for her muscles to stop screaming, for her heart to slow its frantic beat. The"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 144,
+      "wordCount": 63,
+      "avgSentenceLen": 15.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.297,
+      "excerpt": "By the time her boots touched the creek bed, the fog was a palpable wall, muffling sound, "
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 145,
+      "wordCount": 39,
+      "avgSentenceLen": 6.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.49,
+      "excerpt": "She moved through the basin like a ghost, following the subtle disturbances in the undergr"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 146,
+      "wordCount": 41,
+      "avgSentenceLen": 10.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.411,
+      "excerpt": "The terrain shifted. The creek bed narrowed, then opened, the fog-shrouded forest giving w"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 147,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Shapes moved."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 148,
+      "wordCount": 36,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Not one. Not two. A whole congregation of bears. Black bears, grizzlies, moving with an un"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 149,
+      "wordCount": 39,
+      "avgSentenceLen": 9.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.422,
+      "excerpt": "And among them, a central figure. The Handler. Its bipedal form cut through the mist, tall"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 150,
+      "wordCount": 84,
+      "avgSentenceLen": 6.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.49,
+      "excerpt": "The Handler raised a hand. Slowly. Not a command, more a suggestion. Its fingers, long and"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 151,
+      "wordCount": 45,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.469,
+      "excerpt": "A younger black bear, restless, began to drift away from the central group. It pawed at th"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 152,
+      "wordCount": 26,
+      "avgSentenceLen": 6.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.49,
+      "excerpt": "Then, the Handler moved. It strode toward the young bear, its gait a silent, predatory gli"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 153,
+      "wordCount": 30,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0,
+      "paceScore": 0.417,
+      "excerpt": "The young bear, emboldened, let out a low growl. Its fur bristled. It dropped to all fours"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 154,
+      "wordCount": 52,
+      "avgSentenceLen": 7.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.47,
+      "excerpt": "The Handler didn't flinch. As the bear lunged, the Handler sidestepped with impossible spe"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 155,
+      "wordCount": 82,
+      "avgSentenceLen": 13.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.34,
+      "excerpt": "The bear stumbled, yelped once, then dropped to its belly, submitting. It whined, a low, m"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 156,
+      "wordCount": 57,
+      "avgSentenceLen": 7.1,
+      "dialogueRatio": 0,
+      "paceScore": 0.547,
+      "excerpt": "Nora lowered her binoculars. Her mind churned. *Shepherd. Warden.* The words came unbidden"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 157,
+      "wordCount": 62,
+      "avgSentenceLen": 7.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.464,
+      "excerpt": "She forced herself to watch longer. To note what she wasn't seeing. No territorial marking"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 158,
+      "wordCount": 5,
+      "avgSentenceLen": 2.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "But why? And why here?"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 159,
+      "wordCount": 52,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.431,
+      "excerpt": "The hum deepened, vibrating in her chest, and she felt it pull—not toward the bears, but p"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 160,
+      "wordCount": 47,
+      "avgSentenceLen": 15.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.384,
+      "excerpt": "She had a choice. Circle wide, avoid the meadow entirely, and retreat to call for backup—t"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 161,
+      "wordCount": 13,
+      "avgSentenceLen": 4.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Nora checked her rifle. The safety was on. She left it that way."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 162,
+      "wordCount": 47,
+      "avgSentenceLen": 15.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.299,
+      "excerpt": "She moved low through the huckleberry bushes at the meadow's edge, staying in the deepest "
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 163,
+      "wordCount": 64,
+      "avgSentenceLen": 16,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "The meadow opened into a smaller clearing, ringed by stones arranged in a spiral—not a nat"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 164,
+      "wordCount": 41,
+      "avgSentenceLen": 5.1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The remaining thru-hikers. A man and a woman. Their eyes were open, pupils blown wide, fix"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 165,
+      "wordCount": 52,
+      "avgSentenceLen": 7.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.47,
+      "excerpt": "Nora's stomach clenched. She rushed forward, stepping over the spiral's outermost stones, "
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 166,
+      "wordCount": 7,
+      "avgSentenceLen": 3.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She had to get them out. Now."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 167,
+      "wordCount": 28,
+      "avgSentenceLen": 9.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.431,
+      "excerpt": "But as she moved to lift the woman, her foot caught the edge of a stone. It shifted, scrap"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 168,
+      "wordCount": 2,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Silence. Absolute."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 169,
+      "wordCount": 31,
+      "avgSentenceLen": 6.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.496,
+      "excerpt": "Nora froze. The fog pressed in, thick and blind. She could feel the absence of the Handler"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 170,
+      "wordCount": 8,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She wasn't hidden anymore. She was a trespasser."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 171,
+      "wordCount": 34,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.448,
+      "excerpt": "The realization crystallized: she had crossed a boundary she hadn't seen, violated a rule "
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 172,
+      "wordCount": 49,
+      "avgSentenceLen": 9.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.421,
+      "excerpt": "No time. She grabbed the woman under the arms, dragged her to the edge of the clearing whe"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 173,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "That was worse."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 174,
+      "wordCount": 30,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0,
+      "paceScore": 0.417,
+      "excerpt": "She inflated the raft in frantic bursts, the hiss of air deafening in the stillness. She s"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 175,
+      "wordCount": 52,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "The creek was a torrent, fed by the constant drizzle and melting snow. The raft plunged in"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 176,
+      "wordCount": 47,
+      "avgSentenceLen": 15.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.299,
+      "excerpt": "The world blurred into a chaos of white water and dark rock. She fought the current, spinn"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 177,
+      "wordCount": 25,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.451,
+      "excerpt": "Hours later, as the creek broadened and slowed into a calmer stretch, Nora felt it. A chan"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 178,
+      "wordCount": 44,
+      "avgSentenceLen": 8.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.442,
+      "excerpt": "She glanced back. The hiker closest to her, a young woman with vibrant red hair, was slump"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 179,
+      "wordCount": 49,
+      "avgSentenceLen": 6.1,
+      "dialogueRatio": 0,
+      "paceScore": 0.497,
+      "excerpt": "Nora reached out, her fingers pressing against the woman's neck. Nothing. No pulse. The ch"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 180,
+      "wordCount": 27,
+      "avgSentenceLen": 6.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.484,
+      "excerpt": "Nora leaned her head against the cold, wet raft, the roar of the creek suddenly quiet in h"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 181,
+      "wordCount": 49,
+      "avgSentenceLen": 12.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.451,
+      "excerpt": "She had crossed the spiral. She had taken what the Handler had placed. She was a thief now"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 182,
+      "wordCount": 13,
+      "avgSentenceLen": 4.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The Handler had let her go. That wasn't mercy. It was a lesson."
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 183,
+      "wordCount": 48,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "Nora looked at the living hiker, at his vacant eyes and slack face. What had the Handler t"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 184,
+      "wordCount": 41,
+      "avgSentenceLen": 8.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.454,
+      "excerpt": "She didn't know the Handler's full purpose. She had only glimpsed its methods. But she und"
+    },
+    {
+      "chapter": 7,
+      "chapterTitle": "The High Meadow Trial",
+      "paraIndex": 185,
+      "wordCount": 7,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "And the true hunt was only beginning."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 186,
+      "wordCount": 41,
+      "avgSentenceLen": 20.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.198,
+      "excerpt": "Nora sat across from Deputy Director Marcus Leland in the ranger station's conference room"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 187,
+      "wordCount": 36,
+      "avgSentenceLen": 7.2,
+      "dialogueRatio": 0.72,
+      "paceScore": 0.975,
+      "excerpt": "\"You understand the situation,\" Leland said, his voice flat. \"One hiker dead. Two survivor"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 188,
+      "wordCount": 17,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0.3,
+      "paceScore": 0.625,
+      "excerpt": "Nora kept her hands folded in her lap, willing herself to stillness. \"I reported what I ob"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 189,
+      "wordCount": 24,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0.84,
+      "paceScore": 0.967,
+      "excerpt": "\"A bipedal creature. Controlling bears. Thermal anomalies.\" Leland's eyebrow arched. \"Nora"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 190,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Is the truth.\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 191,
+      "wordCount": 37,
+      "avgSentenceLen": 12.3,
+      "dialogueRatio": 0.92,
+      "paceScore": 0.668,
+      "excerpt": "\"The truth,\" Leland interrupted, \"is that the Forest Service has classified this incident "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 192,
+      "wordCount": 11,
+      "avgSentenceLen": 5.5,
+      "dialogueRatio": 0.7,
+      "paceScore": 0.8,
+      "excerpt": "Nora's jaw tightened. \"They didn't lose their memories from gas seepage.\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 193,
+      "wordCount": 37,
+      "avgSentenceLen": 9.3,
+      "dialogueRatio": 0.91,
+      "paceScore": 0.732,
+      "excerpt": "\"According to the medical evaluation, they show signs of acute dissociative amnesia. Traum"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 194,
+      "wordCount": 6,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 1,
+      "paceScore": 1,
+      "excerpt": "\"Because it didn't attack them. It—\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 195,
+      "wordCount": 37,
+      "avgSentenceLen": 7.4,
+      "dialogueRatio": 0.8,
+      "paceScore": 0.771,
+      "excerpt": "\"Enough.\" Leland's voice cut through the room like a blade. \"Effective immediately, you're"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 196,
+      "wordCount": 17,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.448,
+      "excerpt": "The words landed like stones. Nora sat very still, feeling the walls of the room press inw"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 197,
+      "wordCount": 7,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.53,
+      "paceScore": 0.779,
+      "excerpt": "\"This is a mistake,\" she said quietly."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 198,
+      "wordCount": 21,
+      "avgSentenceLen": 5.3,
+      "dialogueRatio": 0.65,
+      "paceScore": 0.8,
+      "excerpt": "\"This is protocol.\" Leland stood, signaling the end of the meeting. \"Go home, Nora. Rest. "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 199,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "---"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 200,
+      "wordCount": 25,
+      "avgSentenceLen": 12.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.365,
+      "excerpt": "Danny found her in the parking lot, leaning against her truck, staring at the tree line. H"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 201,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0.71,
+      "paceScore": 0.8,
+      "excerpt": "\"Heard what happened,\" he said."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 202,
+      "wordCount": 7,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "Nora nodded, not trusting herself to speak."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 203,
+      "wordCount": 20,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 1,
+      "paceScore": 0.717,
+      "excerpt": "\"For what it's worth, I told them you were solid. That if you said you saw something, you "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 204,
+      "wordCount": 9,
+      "avgSentenceLen": 4.5,
+      "dialogueRatio": 0.4,
+      "paceScore": 0.74,
+      "excerpt": "She turned to look at him. \"Did they listen?\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 205,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Danny's silence was answer enough."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 206,
+      "wordCount": 22,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0.67,
+      "paceScore": 0.696,
+      "excerpt": "\"They're calling it a mass psychological event,\" Nora said, the words bitter on her tongue"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 207,
+      "wordCount": 33,
+      "avgSentenceLen": 6.6,
+      "dialogueRatio": 0.91,
+      "paceScore": 0.909,
+      "excerpt": "\"The survivors don't remember anything. And the bodies—\" Danny hesitated. \"The autopsies c"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 208,
+      "wordCount": 10,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"What about the puncture wound? The resin samples I collected?\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 209,
+      "wordCount": 43,
+      "avgSentenceLen": 8.6,
+      "dialogueRatio": 0.93,
+      "paceScore": 0.932,
+      "excerpt": "\"Filed under 'environmental contamination.'\" Danny looked away. \"Look, Nora, I believe you"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 210,
+      "wordCount": 28,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "Nora felt the weight of his words settle over her. He was right. She knew he was right. Bu"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 211,
+      "wordCount": 7,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.69,
+      "paceScore": 0.779,
+      "excerpt": "\"So what do you suggest?\" she asked."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 212,
+      "wordCount": 31,
+      "avgSentenceLen": 6.2,
+      "dialogueRatio": 0.88,
+      "paceScore": 0.796,
+      "excerpt": "\"Comply. At least on the surface. Let the investigation run its course. Keep your head dow"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 213,
+      "wordCount": 15,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0.29,
+      "paceScore": 0.64,
+      "excerpt": "She nodded slowly, the lie forming even as she agreed. \"I'll stay out of it.\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 214,
+      "wordCount": 14,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.32,
+      "paceScore": 0.668,
+      "excerpt": "Danny studied her for a long moment, then sighed. \"I hope you mean that.\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 215,
+      "wordCount": 17,
+      "avgSentenceLen": 17,
+      "dialogueRatio": 0,
+      "paceScore": 0.271,
+      "excerpt": "He walked away, leaving Nora alone in the parking lot, the suspension notice heavy in her "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 216,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "---"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 217,
+      "wordCount": 29,
+      "avgSentenceLen": 9.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.424,
+      "excerpt": "That night, Nora sat in her darkened apartment, laptop open on the kitchen table. She had "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 218,
+      "wordCount": 56,
+      "avgSentenceLen": 18.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.236,
+      "excerpt": "She pulled up the satellite imagery archives, scrolling through thermal data from the Thun"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 219,
+      "wordCount": 21,
+      "avgSentenceLen": 10.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.406,
+      "excerpt": "At first, nothing stood out. Standard thermal signatures: cooler at night, warmer during t"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 220,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Then she saw it."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 221,
+      "wordCount": 42,
+      "avgSentenceLen": 14,
+      "dialogueRatio": 0,
+      "paceScore": 0.333,
+      "excerpt": "A warm spot, small but distinct, appearing in the same location every forty-eight hours. I"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 222,
+      "wordCount": 32,
+      "avgSentenceLen": 10.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.403,
+      "excerpt": "Nora leaned closer, her pulse quickening. She cross-referenced the dates. The pattern had "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 223,
+      "wordCount": 30,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.469,
+      "excerpt": "She ran the numbers again, checked the calibration, verified the data source. No error. Th"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 224,
+      "wordCount": 16,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She sat back, the implications unfolding in her mind. This wasn't random. This was control"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 225,
+      "wordCount": 16,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "She needed proof. Real, tangible proof that couldn't be dismissed as environmental contami"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 226,
+      "wordCount": 52,
+      "avgSentenceLen": 17.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.341,
+      "excerpt": "She scrolled through her contacts, stopping on a name she hadn't called in years: Aris Col"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 227,
+      "wordCount": 21,
+      "avgSentenceLen": 21,
+      "dialogueRatio": 0,
+      "paceScore": 0.188,
+      "excerpt": "She typed out a message, careful to keep it vague enough to avoid suspicion but compelling"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 228,
+      "wordCount": 21,
+      "avgSentenceLen": 4.2,
+      "dialogueRatio": 0,
+      "paceScore": 0.69,
+      "excerpt": "*Aris—Need a favor. Geothermal anomaly in the Cascades. Off the books. The kind that could"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 229,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The reply came within minutes."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 230,
+      "wordCount": 5,
+      "avgSentenceLen": 2.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "*That bad? Or that good?*"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 231,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "*That real.*"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 232,
+      "wordCount": 4,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Another pause. Then: *Details?*"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 233,
+      "wordCount": 25,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.611,
+      "excerpt": "She sent the coordinates and a time—four in the morning, when the forest would be at its m"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 234,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "His reply was single word: *In.*"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 235,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "---"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 236,
+      "wordCount": 51,
+      "avgSentenceLen": 17,
+      "dialogueRatio": 0,
+      "paceScore": 0.271,
+      "excerpt": "She met Aris at a pull-off two miles from the main trailhead, the hour so early that the s"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 237,
+      "wordCount": 41,
+      "avgSentenceLen": 13.7,
+      "dialogueRatio": 0.83,
+      "paceScore": 0.64,
+      "excerpt": "\"Four a.m. rendezvous, burner-level secrecy, and a thermal anomaly that pulses like a hear"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 238,
+      "wordCount": 10,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0.5,
+      "paceScore": 0.717,
+      "excerpt": "\"You can still back out,\" Nora said, and meant it."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 239,
+      "wordCount": 32,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0.56,
+      "paceScore": 0.758,
+      "excerpt": "Aris looked at her, read the seriousness in her face, and shook his head. \"I've been chasi"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 240,
+      "wordCount": 48,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "They moved quickly, sticking to the shadows of the tree line, avoiding the main trails. No"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 241,
+      "wordCount": 35,
+      "avgSentenceLen": 11.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.382,
+      "excerpt": "The basin greeted them with the same stillness she remembered, the same charged quiet. The"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 242,
+      "wordCount": 17,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.448,
+      "excerpt": "The data began to flow. He stared at the screen, then adjusted a setting, then stared agai"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 243,
+      "wordCount": 11,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0.82,
+      "paceScore": 0.696,
+      "excerpt": "\"Tell me you're seeing what I think you're seeing,\" Nora said."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 244,
+      "wordCount": 37,
+      "avgSentenceLen": 5.3,
+      "dialogueRatio": 0.76,
+      "paceScore": 0.908,
+      "excerpt": "Aris didn't look up. \"The subsurface temperature here is fifteen degrees above ambient. Th"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 245,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0.53,
+      "paceScore": 0.8,
+      "excerpt": "\"Like breathing,\" Nora finished."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 246,
+      "wordCount": 49,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.72,
+      "paceScore": 0.779,
+      "excerpt": "He nodded slowly. \"I've never seen anything like this. It's not geothermal. There's no vol"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 247,
+      "wordCount": 24,
+      "avgSentenceLen": 24,
+      "dialogueRatio": 0,
+      "paceScore": 0.292,
+      "excerpt": "Nora felt the ground shift beneath her, not literally but perceptually—the entire framewor"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 248,
+      "wordCount": 9,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0.75,
+      "paceScore": 0.738,
+      "excerpt": "\"Can you get a reading on depth?\" she asked."
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 249,
+      "wordCount": 38,
+      "avgSentenceLen": 5.4,
+      "dialogueRatio": 0.67,
+      "paceScore": 0.8,
+      "excerpt": "Aris worked the controls. \"The source is roughly thirty meters down. But there's something"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 250,
+      "wordCount": 20,
+      "avgSentenceLen": 6.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.486,
+      "excerpt": "Nora stared at the screen, at the ghostly image of something pulsing beneath the earth. Th"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 251,
+      "wordCount": 28,
+      "avgSentenceLen": 14,
+      "dialogueRatio": 0.89,
+      "paceScore": 0.633,
+      "excerpt": "\"If I bring this data to the Forest Service,\" she said slowly, \"they'll say I fabricated i"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 252,
+      "wordCount": 11,
+      "avgSentenceLen": 3.7,
+      "dialogueRatio": 0.78,
+      "paceScore": 0.8,
+      "excerpt": "\"Probably,\" Aris agreed. \"But it's real. I can vouch for that.\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 253,
+      "wordCount": 9,
+      "avgSentenceLen": 4.5,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"And if they come after your credentials? Your funding?\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 254,
+      "wordCount": 37,
+      "avgSentenceLen": 9.3,
+      "dialogueRatio": 0.47,
+      "paceScore": 0.714,
+      "excerpt": "He was quiet for a long moment. Then he shut down the radar and packed it away with carefu"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 255,
+      "wordCount": 37,
+      "avgSentenceLen": 18.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.24,
+      "excerpt": "They dismantled the equipment in silence, the weight of what they'd found settling between"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 256,
+      "wordCount": 19,
+      "avgSentenceLen": 9.5,
+      "dialogueRatio": 0.24,
+      "paceScore": 0.57,
+      "excerpt": "At the pull-off, Aris loaded his gear into his trunk and turned to face her. \"What's your "
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 257,
+      "wordCount": 22,
+      "avgSentenceLen": 5.5,
+      "dialogueRatio": 0.46,
+      "paceScore": 0.774,
+      "excerpt": "Nora looked back toward the basin, invisible now beyond the treeline. \"I go deeper. Find t"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 258,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Alone?\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 259,
+      "wordCount": 29,
+      "avgSentenceLen": 9.7,
+      "dialogueRatio": 1,
+      "paceScore": 0.724,
+      "excerpt": "\"I don't have a choice. If I bring anyone else, I'm putting them at risk. And if I tell an"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 260,
+      "wordCount": 20,
+      "avgSentenceLen": 6.7,
+      "dialogueRatio": 0.81,
+      "paceScore": 0.986,
+      "excerpt": "Aris held her gaze. \"Be careful, Nora. Whatever that thing is—you're too close for it to j"
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 261,
+      "wordCount": 14,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.11,
+      "paceScore": 0.547,
+      "excerpt": "She nodded, the words echoing something she already knew in her bones. \"I know.\""
+    },
+    {
+      "chapter": 8,
+      "chapterTitle": "The Forest Bureau's Inquiry",
+      "paraIndex": 262,
+      "wordCount": 56,
+      "avgSentenceLen": 14,
+      "dialogueRatio": 0,
+      "paceScore": 0.476,
+      "excerpt": "She drove home as the sun rose, the radar data saved on a drive in her pocket, a secret sh"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 263,
+      "wordCount": 28,
+      "avgSentenceLen": 28,
+      "dialogueRatio": 0,
+      "paceScore": 0.042,
+      "excerpt": "Nora pressed her back against the cool stone, the weight of thirty meters of rock above he"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 264,
+      "wordCount": 29,
+      "avgSentenceLen": 7.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.474,
+      "excerpt": "The grizzly filled the shaft entrance completely, massive shoulders hunched against the di"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 265,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "A sentinel."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 266,
+      "wordCount": 85,
+      "avgSentenceLen": 17,
+      "dialogueRatio": 0,
+      "paceScore": 0.318,
+      "excerpt": "Her headlamp beam caught the bear's eyes—no, not eyes. Something else. A film across them,"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 267,
+      "wordCount": 52,
+      "avgSentenceLen": 26,
+      "dialogueRatio": 0,
+      "paceScore": 0.083,
+      "excerpt": "She'd descended into this chamber three hours ago, squeezing through the narrow fissure be"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 268,
+      "wordCount": 47,
+      "avgSentenceLen": 11.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.38,
+      "excerpt": "The descent had been smooth. The vertical shaft opened into a chamber so vast her headlamp"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 269,
+      "wordCount": 18,
+      "avgSentenceLen": 18,
+      "dialogueRatio": 0,
+      "paceScore": 0.45,
+      "excerpt": "She'd found the Handler's tracks immediately—those impossible prints leading deeper into t"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 270,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Then the bones."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 271,
+      "wordCount": 41,
+      "avgSentenceLen": 13.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.535,
+      "excerpt": "Hundreds of them, arranged in neat rows along the chamber wall. Bear skulls lined one sect"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 272,
+      "wordCount": 48,
+      "avgSentenceLen": 9.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.425,
+      "excerpt": "Beyond the bones, the tools. Claws bound to wooden handles with precise sinew lashing, sur"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 273,
+      "wordCount": 32,
+      "avgSentenceLen": 6.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.492,
+      "excerpt": "She'd lifted one of the claw tools, turning it in her light. The craftsmanship was extraor"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 274,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Then the petroglyphs."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 275,
+      "wordCount": 25,
+      "avgSentenceLen": 12.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.525,
+      "excerpt": "They covered the far wall, carved into the stone. The images were layered, generations of "
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 276,
+      "wordCount": 58,
+      "avgSentenceLen": 14.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.323,
+      "excerpt": "A tall figure, bipedal, surrounded by bears. Lines radiated from the figure to each bear, "
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 277,
+      "wordCount": 52,
+      "avgSentenceLen": 6.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.567,
+      "excerpt": "Nora had traced the lines with her fingertip, and the implications had crashed over her li"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 278,
+      "wordCount": 75,
+      "avgSentenceLen": 10.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.455,
+      "excerpt": "She'd stood there, her fingers resting on the carved stone, and let herself dwell in that "
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 279,
+      "wordCount": 46,
+      "avgSentenceLen": 15.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.306,
+      "excerpt": "The mountain had been here for millions of years. It had seen continents shift, ice sheets"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 280,
+      "wordCount": 42,
+      "avgSentenceLen": 8.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.545,
+      "excerpt": "She'd photographed the most recent carving—a date marker, concentric circles with slash ma"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 281,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "That was when the hum began."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 282,
+      "wordCount": 52,
+      "avgSentenceLen": 26,
+      "dialogueRatio": 0,
+      "paceScore": 0.083,
+      "excerpt": "It started as a tremor in the stone beneath her boots, then swelled, filling the chamber w"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 283,
+      "wordCount": 42,
+      "avgSentenceLen": 14,
+      "dialogueRatio": 0,
+      "paceScore": 0.429,
+      "excerpt": "The chamber was a resonator. The smooth walls, the perfect acoustics—this was engineered. "
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 284,
+      "wordCount": 27,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "She'd pressed her hands over her ears, but it did nothing. The hum wasn't sound in the con"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 285,
+      "wordCount": 12,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "And she'd known, with absolute certainty, that she had to get out."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 286,
+      "wordCount": 39,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "Now she stood at the base of the shaft, staring up at the grizzly, and understood that the"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 287,
+      "wordCount": 58,
+      "avgSentenceLen": 11.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.452,
+      "excerpt": "Nora forced her breathing to slow. Her heartbeat settled, reluctantly, from a gallop into "
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 288,
+      "wordCount": 38,
+      "avgSentenceLen": 9.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.427,
+      "excerpt": "The grizzly shifted, its massive head tilting slightly, and a low sound rumbled from its c"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 289,
+      "wordCount": 6,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "It was waiting. Not attacking. Waiting."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 290,
+      "wordCount": 5,
+      "avgSentenceLen": 2.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "For the Handler. For instruction."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 291,
+      "wordCount": 68,
+      "avgSentenceLen": 11.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.448,
+      "excerpt": "Nora's hand moved to her climbing harness, where the rope still trailed from her descent. "
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 292,
+      "wordCount": 30,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.469,
+      "excerpt": "She looked around the chamber one last time, her headlamp sweeping across the bones, the t"
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 293,
+      "wordCount": 14,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "The grizzly lowered its head, blocking more of the light. The chamber grew darker."
+    },
+    {
+      "chapter": 9,
+      "chapterTitle": "The Subterranean Chamber",
+      "paraIndex": 294,
+      "wordCount": 12,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "Nora clipped onto the rope, checked her harness, and began to climb."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 295,
+      "wordCount": 12,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "Nora clipped onto the rope, checked her harness, and began to climb."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 296,
+      "wordCount": 53,
+      "avgSentenceLen": 10.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.404,
+      "excerpt": "The grizzly shifted above, blocking more light. The shaft narrowed around her, the rope ro"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 297,
+      "wordCount": 49,
+      "avgSentenceLen": 16.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.366,
+      "excerpt": "She stopped, her arms burning, and unzipped her jacket one-handed. Her fingers found the s"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 298,
+      "wordCount": 33,
+      "avgSentenceLen": 16.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.281,
+      "excerpt": "She soaked the jacket's collar, then hurled it past the bear, aiming for the daylight beyo"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 299,
+      "wordCount": 30,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.602,
+      "excerpt": "The grizzly's head swiveled. Its nostrils flared. For one terrible second it didn't move—t"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 300,
+      "wordCount": 38,
+      "avgSentenceLen": 9.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.427,
+      "excerpt": "Nora didn't wait. She climbed, hand over hand, her boots scrabbling against stone, her bre"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 301,
+      "wordCount": 22,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0,
+      "paceScore": 0.396,
+      "excerpt": "The grizzly was twenty yards away, tearing through the underbrush where her jacket had lan"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 302,
+      "wordCount": 37,
+      "avgSentenceLen": 18.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.24,
+      "excerpt": "The boulder field opened before her, a chaotic scatter of granite slabs and scree, remnant"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 303,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Then she saw it."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 304,
+      "wordCount": 17,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.448,
+      "excerpt": "The Handler stood at the far edge of the boulder field, perfectly still against the treeli"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 305,
+      "wordCount": 11,
+      "avgSentenceLen": 5.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Nora froze. For the first time, she saw its face clearly."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 306,
+      "wordCount": 47,
+      "avgSentenceLen": 9.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.599,
+      "excerpt": "Primate-like, but wrong. The brow ridge was too pronounced, the jaw too heavy. Its eyes—la"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 307,
+      "wordCount": 16,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "Those eyes locked onto hers. She felt the weight of its attention like a physical force."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 308,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The Handler raised one long-fingered hand."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 309,
+      "wordCount": 45,
+      "avgSentenceLen": 7.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.469,
+      "excerpt": "Around the perimeter of the boulder field, shapes emerged from the forest. Bears. A dozen "
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 310,
+      "wordCount": 52,
+      "avgSentenceLen": 10.4,
+      "dialogueRatio": 0,
+      "paceScore": 0.485,
+      "excerpt": "Nora's hand went to her flare gun. Her mind raced. The boulder field was unstable—she'd no"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 311,
+      "wordCount": 25,
+      "avgSentenceLen": 25,
+      "dialogueRatio": 0,
+      "paceScore": 0.104,
+      "excerpt": "She raised the flare gun and aimed, not at the Handler, but at a narrow vertical crack in "
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 312,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "She fired."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 313,
+      "wordCount": 19,
+      "avgSentenceLen": 9.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.427,
+      "excerpt": "The flare streaked red across the gray stone and buried itself in the fissure. For a heart"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 314,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Then the mountain moved."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 315,
+      "wordCount": 35,
+      "avgSentenceLen": 11.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.382,
+      "excerpt": "A deep groan echoed through the rock, a sound older than language. The fissure widened, sp"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 316,
+      "wordCount": 31,
+      "avgSentenceLen": 10.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.41,
+      "excerpt": "The avalanche swallowed everything. Boulders the size of cars crashed down, tons of granit"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 317,
+      "wordCount": 33,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0,
+      "paceScore": 0.396,
+      "excerpt": "The bears scattered, bolting into the forest in all directions as the basin collapsed. The"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 318,
+      "wordCount": 29,
+      "avgSentenceLen": 14.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.323,
+      "excerpt": "She dove behind a massive boulder, pressing herself flat as debris rained down, the air th"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 319,
+      "wordCount": 14,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "Then, slowly, the mountain settled. The roar faded to a rumble, then to silence."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 320,
+      "wordCount": 30,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0,
+      "paceScore": 0.417,
+      "excerpt": "Nora lay still, her ears ringing, her body trembling. Dust hung in the air like fog, turni"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 321,
+      "wordCount": 34,
+      "avgSentenceLen": 17,
+      "dialogueRatio": 0,
+      "paceScore": 0.388,
+      "excerpt": "Where the Handler had stood, there was only a slope of fresh rubble—a raw, gray scar acros"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 322,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The Handler was gone."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 323,
+      "wordCount": 4,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The bears were gone."
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 324,
+      "wordCount": 48,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0.35,
+      "paceScore": 0.752,
+      "excerpt": "She pulled her radio from her belt with shaking hands, her voice a hoarse rasp when she ke"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 325,
+      "wordCount": 12,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0.35,
+      "paceScore": 0.711,
+      "excerpt": "Danny's voice crackled back, distant and tinny. \"Copy that. Are you hurt?\""
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 326,
+      "wordCount": 18,
+      "avgSentenceLen": 3.6,
+      "dialogueRatio": 0.46,
+      "paceScore": 0.976,
+      "excerpt": "\"No. I'm—\" She looked at the rubble field, at the settling dust. \"I'm okay. Just... get he"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 327,
+      "wordCount": 4,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"Hang tight. We're inbound.\""
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 328,
+      "wordCount": 41,
+      "avgSentenceLen": 10.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.411,
+      "excerpt": "She sank down onto a boulder, the radio loose in her hand, and waited. The dust began to s"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 329,
+      "wordCount": 33,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.653,
+      "excerpt": "But as the adrenaline drained from her body, a cold certainty settled in its place. She ha"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 330,
+      "wordCount": 26,
+      "avgSentenceLen": 8.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.444,
+      "excerpt": "The forest was silent around her, the bears scattered into the wilderness. For now, the th"
+    },
+    {
+      "chapter": 10,
+      "chapterTitle": "The Landslide",
+      "paraIndex": 331,
+      "wordCount": 8,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "She closed her eyes and waited for rescue."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 332,
+      "wordCount": 50,
+      "avgSentenceLen": 16.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.358,
+      "excerpt": "The helicopter blades hammered overhead, drowning out thought. Nora sat strapped in the ju"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 333,
+      "wordCount": 54,
+      "avgSentenceLen": 18,
+      "dialogueRatio": 0,
+      "paceScore": 0.25,
+      "excerpt": "Danny sat across from her, headset on, watching her with an expression caught between reli"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 334,
+      "wordCount": 40,
+      "avgSentenceLen": 20,
+      "dialogueRatio": 0,
+      "paceScore": 0.308,
+      "excerpt": "The debrief happened in the same conference room where Leland had suspended her two weeks "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 335,
+      "wordCount": 13,
+      "avgSentenceLen": 6.5,
+      "dialogueRatio": 0.61,
+      "paceScore": 0.79,
+      "excerpt": "\"Walk us through it again,\" Leland said, his voice tight. \"From the beginning.\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 336,
+      "wordCount": 48,
+      "avgSentenceLen": 6.9,
+      "dialogueRatio": 0,
+      "paceScore": 0.565,
+      "excerpt": "Nora repeated the story she'd already told three times. The thermal anomaly. The descent i"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 337,
+      "wordCount": 12,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0.63,
+      "paceScore": 0.675,
+      "excerpt": "\"And you have evidence of this chamber?\" one of the suits asked."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 338,
+      "wordCount": 18,
+      "avgSentenceLen": 4.5,
+      "dialogueRatio": 0.5,
+      "paceScore": 0.8,
+      "excerpt": "Nora nodded, pulling the SD card from her jacket pocket. \"Photos. Carbon samples. Plaster "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 339,
+      "wordCount": 28,
+      "avgSentenceLen": 9.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.431,
+      "excerpt": "The suit held out his hand. Nora hesitated, then dropped the card into his palm. He slippe"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 340,
+      "wordCount": 9,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0.82,
+      "paceScore": 0.738,
+      "excerpt": "\"We'll need the physical samples as well,\" he said."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 341,
+      "wordCount": 31,
+      "avgSentenceLen": 15.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.302,
+      "excerpt": "She handed over the vials, the plaster casts wrapped carefully in bubble wrap. Each piece "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 342,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0.65,
+      "paceScore": 0.8,
+      "excerpt": "\"The geothermal readings?\" Leland asked."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 343,
+      "wordCount": 14,
+      "avgSentenceLen": 3.5,
+      "dialogueRatio": 0.73,
+      "paceScore": 1,
+      "excerpt": "\"My colleague has the data,\" Nora said carefully. \"Dr. Aris Colwin. He can verify—\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 344,
+      "wordCount": 16,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0.75,
+      "paceScore": 0.758,
+      "excerpt": "\"We'll contact him,\" the second suit interrupted. \"In the meantime, Ranger Cruz, you're re"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 345,
+      "wordCount": 4,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0.33,
+      "paceScore": 0.7,
+      "excerpt": "Nora blinked. \"I am?\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 346,
+      "wordCount": 34,
+      "avgSentenceLen": 11.3,
+      "dialogueRatio": 0.83,
+      "paceScore": 0.889,
+      "excerpt": "\"The landslide was a geological event,\" Leland said, his tone clipped and final. \"Unstable"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 347,
+      "wordCount": 57,
+      "avgSentenceLen": 19,
+      "dialogueRatio": 0,
+      "paceScore": 0.229,
+      "excerpt": "*Controlled.* The word hung in the air like smoke. Nora wanted to laugh, wanted to scream,"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 348,
+      "wordCount": 28,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0.87,
+      "paceScore": 0.779,
+      "excerpt": "\"Thunder Creek Basin is closed to the public indefinitely,\" the first suit continued. \"Geo"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 349,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0.57,
+      "paceScore": 0.8,
+      "excerpt": "\"Study by whom?\" Nora asked."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 350,
+      "wordCount": 7,
+      "avgSentenceLen": 3.5,
+      "dialogueRatio": 0.4,
+      "paceScore": 0.74,
+      "excerpt": "The suits exchanged a glance. \"That's classified.\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 351,
+      "wordCount": 38,
+      "avgSentenceLen": 5.4,
+      "dialogueRatio": 0.76,
+      "paceScore": 0.905,
+      "excerpt": "\"Classified,\" Nora repeated flatly. She leaned forward, her voice dropping. \"You know what"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 352,
+      "wordCount": 50,
+      "avgSentenceLen": 8.3,
+      "dialogueRatio": 0.73,
+      "paceScore": 0.751,
+      "excerpt": "The silence stretched. The second suit set down his pen with deliberate precision. \"Ranger"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 353,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"I know what I saw.\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 354,
+      "wordCount": 34,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 0.77,
+      "paceScore": 0.748,
+      "excerpt": "\"You saw a survival situation,\" Leland said, his voice softer now, almost gentle. \"You wer"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 355,
+      "wordCount": 44,
+      "avgSentenceLen": 22,
+      "dialogueRatio": 0,
+      "paceScore": 0.167,
+      "excerpt": "Nora stared at him, searching for the man who had trusted her instincts before, who had se"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 356,
+      "wordCount": 5,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0.52,
+      "paceScore": 0.8,
+      "excerpt": "\"Are we clear?\" Leland asked."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 357,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The question was not a question."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 358,
+      "wordCount": 3,
+      "avgSentenceLen": 3,
+      "dialogueRatio": 0.48,
+      "paceScore": 0.786,
+      "excerpt": "\"Crystal,\" Nora said."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 359,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "---"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 360,
+      "wordCount": 24,
+      "avgSentenceLen": 24,
+      "dialogueRatio": 0,
+      "paceScore": 0.125,
+      "excerpt": "She found Aris at a coffee shop in Winthrop three days later, far from the ranger station,"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 361,
+      "wordCount": 19,
+      "avgSentenceLen": 6.3,
+      "dialogueRatio": 0.58,
+      "paceScore": 0.793,
+      "excerpt": "\"They took everything,\" she said, stirring her coffee without drinking it. \"Every photo, e"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 362,
+      "wordCount": 47,
+      "avgSentenceLen": 9.4,
+      "dialogueRatio": 0.83,
+      "paceScore": 0.729,
+      "excerpt": "Aris nodded, his usual grin absent. \"Two very polite men in very expensive suits. Asked me"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 363,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"National security.\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 364,
+      "wordCount": 20,
+      "avgSentenceLen": 6.7,
+      "dialogueRatio": 0.71,
+      "paceScore": 0.786,
+      "excerpt": "\"Their words, not mine.\" Aris leaned back, studying her. \"What did you find down there, No"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 365,
+      "wordCount": 32,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0.51,
+      "paceScore": 0.758,
+      "excerpt": "She looked out the window at the mountains rising beyond the town, their peaks lost in clo"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 366,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"You think it survived the landslide?\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 367,
+      "wordCount": 26,
+      "avgSentenceLen": 5.2,
+      "dialogueRatio": 0.36,
+      "paceScore": 0.914,
+      "excerpt": "\"I don't know. The burial was total—tons of rock. But...\" She trailed off, the memory of t"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 368,
+      "wordCount": 6,
+      "avgSentenceLen": 6,
+      "dialogueRatio": 0.59,
+      "paceScore": 0.8,
+      "excerpt": "\"But you're not sure,\" Aris finished."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 369,
+      "wordCount": 10,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0.64,
+      "paceScore": 0.8,
+      "excerpt": "She shook her head. \"I'm not sure of anything anymore.\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 370,
+      "wordCount": 50,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0.88,
+      "paceScore": 0.797,
+      "excerpt": "Aris leaned forward, lowering his voice. \"I've been thinking about those petroglyphs you d"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 371,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 1,
+      "paceScore": 0.8,
+      "excerpt": "\"A pact?\""
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 372,
+      "wordCount": 54,
+      "avgSentenceLen": 13.5,
+      "dialogueRatio": 0.96,
+      "paceScore": 0.644,
+      "excerpt": "\"An agreement. The creatures would stay in the deep places, leave the valleys to humans, a"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 373,
+      "wordCount": 19,
+      "avgSentenceLen": 6.3,
+      "dialogueRatio": 0.66,
+      "paceScore": 0.793,
+      "excerpt": "Nora felt the hair rise on her arms. \"You think there was an agreement. Between humans and"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 374,
+      "wordCount": 34,
+      "avgSentenceLen": 8.5,
+      "dialogueRatio": 1,
+      "paceScore": 0.866,
+      "excerpt": "\"I think the federal government didn't just stumble onto Thunder Creek. I think they've kn"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 375,
+      "wordCount": 33,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0.9,
+      "paceScore": 0.696,
+      "excerpt": "\"The answer,\" Nora said slowly, \"is that they're afraid. Of what it means if we weren't th"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 376,
+      "wordCount": 55,
+      "avgSentenceLen": 7.9,
+      "dialogueRatio": 0.76,
+      "paceScore": 0.907,
+      "excerpt": "She sat back, the pieces clicking into place with a sound that felt like doom. \"We called "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 377,
+      "wordCount": 10,
+      "avgSentenceLen": 10,
+      "dialogueRatio": 0.84,
+      "paceScore": 0.717,
+      "excerpt": "\"That's a bigger story than any geological instability,\" Aris said."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 378,
+      "wordCount": 29,
+      "avgSentenceLen": 7.3,
+      "dialogueRatio": 0.75,
+      "paceScore": 0.774,
+      "excerpt": "\"Which is exactly why they'll bury it.\" Nora stood, leaving her coffee untouched. \"But I'm"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 379,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "---"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 380,
+      "wordCount": 56,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "The first week back on patrol was surreal. Normal. Almost aggressively normal. Hikers with"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 381,
+      "wordCount": 39,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "At night, she dreamed of the chamber. Of the petroglyphs showing bears standing upright, l"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 382,
+      "wordCount": 76,
+      "avgSentenceLen": 25.3,
+      "dialogueRatio": 0.16,
+      "paceScore": 0.3,
+      "excerpt": "She tried to research, discreetly. The university library had a copy of Preston's paper in"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 383,
+      "wordCount": 18,
+      "avgSentenceLen": 9,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "The erasure was subtle but thorough. Someone had been here before her, methodically removi"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 384,
+      "wordCount": 36,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0.09,
+      "paceScore": 0.431,
+      "excerpt": "On the tenth day, she was reassigned to the northern patrol route, near the Canadian borde"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 385,
+      "wordCount": 1,
+      "avgSentenceLen": 1,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "---"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 386,
+      "wordCount": 52,
+      "avgSentenceLen": 17.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.341,
+      "excerpt": "The trail near the border was quieter than Thunder Creek had been, the forest denser, the "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 387,
+      "wordCount": 16,
+      "avgSentenceLen": 16,
+      "dialogueRatio": 0,
+      "paceScore": 0.292,
+      "excerpt": "She was kneeling by a stream, examining deer tracks in the mud, when she saw it."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 388,
+      "wordCount": 2,
+      "avgSentenceLen": 2,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "A footprint."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 389,
+      "wordCount": 30,
+      "avgSentenceLen": 15,
+      "dialogueRatio": 0,
+      "paceScore": 0.446,
+      "excerpt": "Massive. Deeper than it should be, the toes splayed wide, the second toe marked by a disti"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 390,
+      "wordCount": 7,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "Larger than the Handler's prints had been."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 391,
+      "wordCount": 28,
+      "avgSentenceLen": 5.6,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "Nora's breath stopped. She crouched lower, her fingers hovering over the impression withou"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 392,
+      "wordCount": 8,
+      "avgSentenceLen": 4,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The print pointed south. Toward Thunder Creek Basin."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 393,
+      "wordCount": 19,
+      "avgSentenceLen": 9.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.427,
+      "excerpt": "She pulled out her phone, hands shaking, and photographed it from every angle. Then she sa"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 394,
+      "wordCount": 47,
+      "avgSentenceLen": 6.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.57,
+      "excerpt": "A bear print. Smaller. Black bear, judging by the size and spacing of the toes. But it was"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 395,
+      "wordCount": 14,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "The Handler's work, continued. Not by the creature she had buried, but by another."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 396,
+      "wordCount": 55,
+      "avgSentenceLen": 11,
+      "dialogueRatio": 0,
+      "paceScore": 0.541,
+      "excerpt": "Nora sat back on her heels, the cold mud seeping through her pants, and felt the bottom dr"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 397,
+      "wordCount": 35,
+      "avgSentenceLen": 7,
+      "dialogueRatio": 0,
+      "paceScore": 0.479,
+      "excerpt": "She stood slowly, scanning the tree line. Nothing moved. But the forest felt different now"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 398,
+      "wordCount": 24,
+      "avgSentenceLen": 12,
+      "dialogueRatio": 0,
+      "paceScore": 0.375,
+      "excerpt": "The trail led south, toward the forbidden basin. Toward the place the federal government h"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 399,
+      "wordCount": 31,
+      "avgSentenceLen": 15.5,
+      "dialogueRatio": 0,
+      "paceScore": 0.302,
+      "excerpt": "But the mountain did not respect human boundaries. The creatures that walked it, that resh"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 400,
+      "wordCount": 51,
+      "avgSentenceLen": 12.8,
+      "dialogueRatio": 0,
+      "paceScore": 0.438,
+      "excerpt": "Nora looked down at the twin prints—one massive and deformed, one small and learning. The "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 401,
+      "wordCount": 10,
+      "avgSentenceLen": 5,
+      "dialogueRatio": 0,
+      "paceScore": 0.5,
+      "excerpt": "The hunt was not over. It had never been over."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 402,
+      "wordCount": 39,
+      "avgSentenceLen": 13,
+      "dialogueRatio": 0,
+      "paceScore": 0.354,
+      "excerpt": "She pulled out her GPS, marked the coordinates, and began following the tracks south. Not "
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 403,
+      "wordCount": 20,
+      "avgSentenceLen": 6.7,
+      "dialogueRatio": 0,
+      "paceScore": 0.486,
+      "excerpt": "South. Toward the basin. Toward the truth that had been buried under stone and silence but"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 404,
+      "wordCount": 34,
+      "avgSentenceLen": 11.3,
+      "dialogueRatio": 0,
+      "paceScore": 0.589,
+      "excerpt": "The forest closed around her, and Nora Cruz—32 years old, former wildlife biologist, backc"
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 405,
+      "wordCount": 14,
+      "avgSentenceLen": 14,
+      "dialogueRatio": 0,
+      "paceScore": 0.333,
+      "excerpt": "Only the trail, and the thing that walked it, and the bears that followed."
+    },
+    {
+      "chapter": 11,
+      "chapterTitle": "The Second Trail",
+      "paraIndex": 406,
+      "wordCount": 16,
+      "avgSentenceLen": 8,
+      "dialogueRatio": 0,
+      "paceScore": 0.458,
+      "excerpt": "The true hunt was unending. And she would follow it to whatever end the mountain demanded."
+    }
+  ]
+}

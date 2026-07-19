@@ -10,6 +10,7 @@ import { relayWriteChapterChecked } from '../lib/pipeline/storyglue-write.js'
 import { critiqueChapter } from '../lib/pipeline/editorial.js'
 import { leadEditChapter } from '../lib/pipeline/leadEdit.js'
 import { checkContinuity } from '../lib/pipeline/continuityCheck.js'
+import { analyzeChapterText } from '../lib/pipeline/rhythmAnalysis.js'
 
 const __dir = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dir, '..')
@@ -43,10 +44,19 @@ const chapterMeta = outline.chapters.find((c) => c.number === chapterNum)
 if (!chapterMeta) throw new Error(`No outline entry for chapter ${chapterNum}`)
 
 let priorChapters = ''
+let earlierChapters = ''
+let previousChapter = ''
 for (let n = 1; n < chapterNum; n++) {
   const numStr = String(n).padStart(2, '0')
   const text = fs.readFileSync(path.join(bookDir, `chapter-${numStr}.md`), 'utf8').replace(/^# Chapter \d+[^\n]*\n\n/, '')
   priorChapters += `--- Chapter ${n} ---\n${text}\n\n`
+  // Mayor's fix, live-caught reading the finished book: the immediately-
+  // previous chapter is split out from everything earlier - see
+  // continuityCheck.js for why the split matters (chapter 10 re-narrated
+  // chapter 9's cave-recap almost verbatim, buried in an undifferentiated
+  // 8-chapter blob the checker didn't weight correctly).
+  if (n === chapterNum - 1) previousChapter = text
+  else earlierChapters += `--- Chapter ${n} ---\n${text}\n\n`
 }
 
 console.log(`Book: ${bookFolder}`)
@@ -59,7 +69,10 @@ const draft = await relayWriteChapterChecked({
   chapterNum,
   chapterTitle: chapterMeta.title,
   chapterSummary: chapterMeta.summary,
+  intendedPace: chapterMeta.intendedPace,
   priorChapters,
+  previousChapter,
+  earlierChapters,
   keys,
 })
 fs.writeFileSync(path.join(bookDir, `chapter-${String(chapterNum).padStart(2, '0')}-draft.md`), draft)
@@ -80,8 +93,27 @@ const leadEdited = await leadEditChapter({ draft, notes, editorKey: winnerKey, k
 // nothing verified the Lead Editor's own output. One more pass, same
 // checker, on the actual final text.
 console.log('\n=== Final continuity check (post-Lead-Editor) ===')
-const final = await checkContinuity({ draft: leadEdited, winningPlot, priorChapters, chapterTitle: chapterMeta.title, chapterSummary: chapterMeta.summary, apiKey: keys.claude })
+const final = await checkContinuity({ draft: leadEdited, winningPlot, previousChapter, earlierChapters, chapterTitle: chapterMeta.title, chapterSummary: chapterMeta.summary, apiKey: keys.claude })
 
 fs.writeFileSync(path.join(bookDir, `chapter-${String(chapterNum).padStart(2, '0')}.md`), `# Chapter ${chapterNum}: ${chapterMeta.title}\n\n${final}\n`)
+
+// Syncopation plan-vs-actual: the outline declared an intendedPace for
+// this chapter (storyglue-outline.js); this measures what actually got
+// written and logs the comparison, so the loop is verifiable, not just
+// asserted. Real data, appended per-chapter, not overwritten - the point
+// is a growing record, same as editorial-notes-*.json.
+if (chapterMeta.intendedPace) {
+  const actual = analyzeChapterText(final)
+  const paceLabel = actual.avgPace >= 0.55 ? 'high' : actual.avgPace <= 0.42 ? 'low' : 'medium'
+  const matched = paceLabel === chapterMeta.intendedPace
+  const logPath = path.join(bookDir, 'syncopation-log.json')
+  const log = fs.existsSync(logPath) ? JSON.parse(fs.readFileSync(logPath, 'utf8')) : []
+  const withoutThis = log.filter((l) => l.chapter !== chapterNum)
+  withoutThis.push({ chapter: chapterNum, title: chapterMeta.title, intendedPace: chapterMeta.intendedPace, measuredPace: actual.avgPace, measuredLabel: paceLabel, matched })
+  withoutThis.sort((a, b) => a.chapter - b.chapter)
+  fs.writeFileSync(logPath, JSON.stringify(withoutThis, null, 2))
+  console.log(`\n=== Syncopation check ===`)
+  console.log(`  Intended: ${chapterMeta.intendedPace} | Measured: ${paceLabel} (${actual.avgPace}) | ${matched ? 'MATCHED' : 'DRIFTED'}`)
+}
 
 console.log(`\nDone. Chapter ${chapterNum} -> ${path.join(bookDir, `chapter-${String(chapterNum).padStart(2, '0')}.md`)}`)
