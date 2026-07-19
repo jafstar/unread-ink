@@ -1,0 +1,254 @@
+{
+  "findings": [
+    {
+      "pattern": "Short declarative sentence followed by elaborating fragment, often punctuated as a separate sentence for emphasis",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "Not a metaphor. Not the echo of my own heartbeat."
+        },
+        {
+          "chapter": 1,
+          "quote": "Not abstract philosophy. Not \"what do we tell the world.\""
+        },
+        {
+          "chapter": 2,
+          "quote": "Not earthquake tremors—controlled movement, precise as clockwork."
+        },
+        {
+          "chapter": 2,
+          "quote": "Not language. Not exactly."
+        },
+        {
+          "chapter": 2,
+          "quote": "Not gradually—all at once, as if a switch had been thrown."
+        },
+        {
+          "chapter": 2,
+          "quote": "Not metal on stone. Not equipment noise."
+        },
+        {
+          "chapter": 3,
+          "quote": "Not the grinding of rock, or the whisper of unseen mechanisms."
+        },
+        {
+          "chapter": 3,
+          "quote": "Not with light, not exactly, but with the steady, rhythmic shimmer of a billion tiny bioluminescent organisms"
+        },
+        {
+          "chapter": 3,
+          "quote": "Not a madman. Not lost."
+        },
+        {
+          "chapter": 3,
+          "quote": "Not water—light."
+        },
+        {
+          "chapter": 3,
+          "quote": "Not fear, exactly. Recognition."
+        },
+        {
+          "chapter": 3,
+          "quote": "Not heard. Felt."
+        }
+      ],
+      "approximateCount": 15,
+      "severity": "pervasive"
+    },
+    {
+      "pattern": "Action or statement followed by immediate negation/correction format: \"[Statement]. Not [X]. [Correction]\"",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "\"We're trapped,\" Tawa said. Not a question. A flat acknowledgment."
+        },
+        {
+          "chapter": 2,
+          "quote": "Not into a map. Not at first."
+        },
+        {
+          "chapter": 3,
+          "quote": "He hadn't been killed. He hadn't been silenced."
+        }
+      ],
+      "approximateCount": 8,
+      "severity": "noticeable"
+    },
+    {
+      "pattern": "Intensifying or elaborating simile/comparison introduced with em-dash after the main clause",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "the relentless drone loomed overhead, a mechanical vulture"
+        },
+        {
+          "chapter": 1,
+          "quote": "The sound—a muted *thunk*—resonated down the spiral"
+        },
+        {
+          "chapter": 1,
+          "quote": "A vibration with intent, moving through the rock like blood through veins."
+        },
+        {
+          "chapter": 1,
+          "quote": "almost conversational, as if responding to our presence"
+        },
+        {
+          "chapter": 1,
+          "quote": "twisting like luminescent vines"
+        },
+        {
+          "chapter": 1,
+          "quote": "the tubes that pulsed like living arteries"
+        },
+        {
+          "chapter": 2,
+          "quote": "Not earthquake tremors—controlled movement, precise as clockwork."
+        },
+        {
+          "chapter": 3,
+          "quote": "The silver tubes here were different—thinner, duller"
+        },
+        {
+          "chapter": 3,
+          "quote": "like colossal, twisting roots"
+        },
+        {
+          "chapter": 3,
+          "quote": "like a stone in my chest"
+        }
+      ],
+      "approximateCount": 18,
+      "severity": "pervasive"
+    },
+    {
+      "pattern": "Physical sensation described as direct bodily awareness (\"I felt it in my [body part]\" / \"through my [body part]\") used to convey supernatural or intense experience",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "The stone beneath us thrummed—a low, rhythmic pulse I could feel in my teeth."
+        },
+        {
+          "chapter": 1,
+          "quote": "pulsing with a rhythm that synced immediately with my own heartbeat—I could feel it, a double drum in my chest"
+        },
+        {
+          "chapter": 2,
+          "quote": "I felt the pressure wave against my back"
+        },
+        {
+          "chapter": 3,
+          "quote": "a persistent shiver that rattled my bones"
+        },
+        {
+          "chapter": 3,
+          "quote": "The heartbeat thrummed through the rock, through my bones, through everything."
+        }
+      ],
+      "approximateCount": 7,
+      "severity": "noticeable"
+    },
+    {
+      "pattern": "Single-word or very short fragment sentences for dramatic emphasis, often at structural turning points",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "Not a metaphor."
+        },
+        {
+          "chapter": 1,
+          "quote": "Not yet."
+        },
+        {
+          "chapter": 2,
+          "quote": "\"Move!\""
+        },
+        {
+          "chapter": 2,
+          "quote": "\"Faster!\""
+        },
+        {
+          "chapter": 2,
+          "quote": "\"Try,\" I said."
+        },
+        {
+          "chapter": 2,
+          "quote": "\"Keep going,\" I urged."
+        },
+        {
+          "chapter": 3,
+          "quote": "\"Gone,\" Tawa whispered"
+        },
+        {
+          "chapter": 3,
+          "quote": "Water."
+        },
+        {
+          "chapter": 3,
+          "quote": "A river."
+        },
+        {
+          "chapter": 3,
+          "quote": "My father."
+        }
+      ],
+      "approximateCount": 22,
+      "severity": "pervasive"
+    },
+    {
+      "pattern": "Describing an object/phenomenon as doing something, then immediately correcting or reframing via em-dash or period-separated clarification",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "The stone beneath us thrummed—a low, rhythmic pulse I could feel in my teeth. Not a metaphor."
+        },
+        {
+          "chapter": 2,
+          "quote": "The stone beneath our feet shifted with deliberate intention. Not earthquake tremors—controlled movement"
+        },
+        {
+          "chapter": 2,
+          "quote": "The tablets reacted to his presence. Symbols rearranged"
+        },
+        {
+          "chapter": 3,
+          "quote": "And it pulsed—not with light, not exactly, but with the steady, rhythmic shimmer"
+        }
+      ],
+      "approximateCount": 9,
+      "severity": "noticeable"
+    },
+    {
+      "pattern": "Stacking physical sensory details in quick succession, often in separate short sentences, to build atmosphere",
+      "examples": [
+        {
+          "chapter": 1,
+          "quote": "My throat tightened with the air, unnaturally still and heavy."
+        },
+        {
+          "chapter": 1,
+          "quote": "My bad leg screamed in protest with each risen step. My breath was ragged, matching the hum through clenched teeth."
+        },
+        {
+          "chapter": 3,
+          "quote": "My lungs burned with the thin air, my vision blurring with fatigue."
+        },
+        {
+          "chapter": 3,
+          "quote": "My heart hammered against my ribs."
+        },
+        {
+          "chapter": 3,
+          "quote": "My vision tunneled."
+        },
+        {
+          "chapter": 3,
+          "quote": "My chest heaved."
+        }
+      ],
+      "approximateCount": 12,
+      "severity": "noticeable"
+    }
+  ],
+  "summary": "The manuscript exhibits several pronounced rhythmic patterns that recur across all three chapters at a level that will become noticeable to attentive readers. Most pervasive is the \"Not X\" construction—a short declarative negation followed by elaboration or correction, appearing roughly 15 times across three chapters, often in clusters during moments of revelation or correction. Closely related is the em-dash comparison/elaboration pattern (18+ instances), which attaches intensifying similes or metaphors to main clauses. The prose also relies heavily on very short fragment sentences for dramatic beats (22+ instances), and repeatedly conveys supernatural/intense experiences through direct bodily sensation language (\"felt in my teeth,\" \"through my bones\"). While these patterns effectively create tension and immediacy in isolation, their frequency across the manuscript creates a predictable cadence—readers begin to anticipate the \"Not X\" reveal, the em-dash metaphor, the short-sentence punch. Consider varying the sentence-level grammar of key moments so the patterns feel less like a house style and more like strategic choices."
+}
