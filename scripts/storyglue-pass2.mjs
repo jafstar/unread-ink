@@ -10,6 +10,7 @@ import { fileURLToPath } from 'url'
 import { runPassTwo } from '../lib/pipeline/passTwo.js'
 import { callClaude } from '../lib/models/claude.js'
 import { callGemini } from '../lib/models/gemini.js'
+import { callChatGPT } from '../lib/models/chatgpt.js'
 
 const __dir = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dir, '..')
@@ -23,6 +24,7 @@ for (const line of fs.readFileSync(envPath, 'utf8').split('\n')) {
 const MODELS = {
   claude: { label: 'Claude', fn: callClaude, key: process.env.ANTHROPIC_API_KEY },
   gemini: { label: 'Gemini', fn: callGemini, key: process.env.GEMINI_API_KEY },
+  chatgpt: { label: 'ChatGPT', fn: callChatGPT, key: process.env.CHATGPT_API_KEY },
 }
 
 const bookFolder = process.argv[2]
